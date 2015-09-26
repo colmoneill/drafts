@@ -7,10 +7,13 @@ Make the following small texts which
 
 a) describe a work in the show
 
-b) research other work by that artist
+##### *Autonomy cube*, 2014
+The piece stands on the exhibition floor, placed on top of a white stand. It contains a cluster of computer chips, cables linking them, and one cable bundle piercing through the base of the cube, thruough to the stand. The dimentions of the cube exactly match the ones of the stand, so while it has a presence in space, it remains relatively discrete. The total amounts to a height of 116cm, and is described by the gallery as *mixed media*.
 
-c) make notes on the works context within the exhibition (and or) the
-broader cultural context of the piece
+b) research other work by that artist
+concerns himself with ways of seeing.
+
+c) make notes on the works context within the exhibition (and or) the broader cultural context of the piece
 
 d) consider the work's relation to your own work
 
