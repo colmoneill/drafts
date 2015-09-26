@@ -18,3 +18,15 @@ Rough structure:
   - File systems are not that complex. Their vocabulary comes from the physical world. Anybody can understand these concepts. Any system that tries to make the file system easier then it actually is, has a direct responsibility to inform you of what and why.
   - Software has a responsibility. If software is used as a marketing tool, this process should be made obvious.
   - Tactile interfaces are not an excuse.
+
+## Dependency as a dependency
+
+I am realizing that this concern I am trying to detail above comes from a frustration, or some sort of lack of attention. It's quite selfish in many ways. Meanwhile this is the concern in short:
+
+*Why does nobody seem to care about our digital environments?*
+
+I came to this school as a way to directly address these topics, surround myself with peers along which I had hoped to be able to develop these thought around software brand dependencies, yet it seems like Apple has already won the war here.
+
+I think a part of what I want to achieve is to stabilize this discourse in a way that I can display the links between software and comfort as a bad thing.
+
+ 
