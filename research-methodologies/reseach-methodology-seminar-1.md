@@ -3,12 +3,12 @@
 
 Art in the Age of... Asymmetrical Warfare
 
-Make the following small texts which
-
 a) describe a work in the show
 
-##### *Autonomy cube*, 2014
-The piece stands on the exhibition floor, placed on top of a white stand. It contains a cluster of computer chips, cables linking them, and one cable bundle piercing through the base of the cube, thruough to the stand. The dimentions of the cube exactly match the ones of the stand, so while it has a presence in space, it remains relatively discrete. The total amounts to a height of 116cm, and is described by the gallery as *mixed media*.
+##### *Autonomy cube*, 2014 / Trevor Paglen with Jacob Appelbaum
+The piece stands on the exhibition floor, placed on top of a white stand. It contains a cluster of circuit boards, neatly organised together, cables linking them together, and one cable bundle piercing through the base of the cube, through to the stand. The dimensions of the cube exactly match the ones of the stand, so while it has a presence in space, it remains relatively discrete.
+
+The total amounts to a height of 116cm, and is described by the gallery as *mixed media*. That is not an understatement.
 
 b) research other work by that artist
 concerns himself with ways of seeing.
