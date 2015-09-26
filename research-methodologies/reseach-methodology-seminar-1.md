@@ -10,10 +10,21 @@ The piece stands on the exhibition floor, placed on top of a white stand. It con
 
 The total amounts to a height of 116cm, and is described by the gallery as *mixed media*. That is not an understatement.
 
-b) research other work by that artist
-concerns himself with ways of seeing.
+The work is described as a sculpture, and also comes with the artist given tagline <sup>[1]</sup> meant to be "seen" and "used".
+
+---
+
+Photographer, scultor and investigator. Paglen looks for art to develop ways of seeing, things that help us see historical events of today.<sup>[2]</sup>
+
+Paglen takes concern in the hot topic of privacy, in some cases very directly, but for the majority of his pictural work, he observes the physical (non software or hardware or network) techniques that governmental bodies employ to hide themselves.
+
+In his photographs, we see phenomenons such as radial heat, and air pollution, as well as atmospheric pressure on display, which are not new to the field of photography and lens based obeservation, but when they are shown in the contexts and themes of this artist's work, they take on a function of disguise, deliberately employed by the hidden.
+
+---
 
 c) make notes on the works context within the exhibition (and or) the broader cultural context of the piece
+
+
 
 d) consider the work's relation to your own work
 
@@ -137,3 +148,6 @@ review.
 ![IMG_20150916_162711.jpg](IMG_20150916_162711.jpg)
 
 ![IMG_20150916_162716.jpg](IMG_20150916_162716.jpg)
+
+[1]: http://www.paglen.com/index.php?l=work&s=cube&i=5 "Artist website"
+[2]: https://www.youtube.com/watch?v=SDxue3jGAug "transmediale 2014 keynote: Art as Evidence "
