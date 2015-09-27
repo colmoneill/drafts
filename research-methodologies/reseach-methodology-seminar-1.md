@@ -16,19 +16,17 @@ The work is described as a sculpture, and also comes with the artist given tagli
 
 ---
 
-Photographer, scultor and investigator. Paglen looks for art to develop ways of seeing, things that help us see historical events of today.<sup>[2]</sup>
+Photographer, sculptor and journalistic investigator. Paglen *looks for art to develop ways of seeing, things that help us see historical events of today*<sup>[2]</sup>. He takes concern in the topic of privacy, in some cases very directly, but for the majority of his pictural work, he observes the physical (not software or hardware or network) techniques that governmental bodies employ to hide their activities.
 
-Paglen takes concern in the hot topic of privacy, in some cases very directly, but for the majority of his pictural work, he observes the physical (non software or hardware or network) techniques that governmental bodies employ to hide themselves.
-
-In his photographs, we see phenomenons such as radial heat, and air pollution, as well as atmospheric pressure on display, which are not new to the field of photography and lens based obeservation, but when they are shown in the contexts and themes of this artist's work, they take on a function of disguise, deliberately employed by the hidden.
+In his photographs, we see phenomenons such as radial heat, and air pollution, as well as atmospheric pressure on display, which are not new to the field of photography and lens based observation, but when they are shown in the contexts and themes of this artist's work, they take on a function of disguise, deliberately employed by the hidden.
 
 ---
 
-c) make notes on the works context within the exhibition (and or) the broader cultural context of the piece
+notes on the works context within the exhibition (and or) the broader cultural context of the piece
 
-Within all of the topics eluded to in [...] Asymmetrical warfare, this portion of the exhibition deals with data processing. It is the closes we get to the software mechanics of this asymmetricality.
+Within all of the topics eluded to in [...] Asymmetrical warfare, this portion of the exhibition deals with data processing. It is the closest we get to the software mechanics of this asymmetricality.
 
-The scenographic relation with the **James Bridle** piece *The Fraunhofer Lines* is a thematic one, because of the visualization ambition of the prints
+The scenographic relation with the **James Bridle** piece *The Fraunhofer Lines* is thematic, but passive because of the visualization ambition of the prints, whereas the *autonomy cube* attempts to be active.
 
 ![IMG_20150916_155902.jpg](IMG_20150916_155902.jpg)
 <figcaption>*The Fraunhofer Lines* James Bridle</figcation>
