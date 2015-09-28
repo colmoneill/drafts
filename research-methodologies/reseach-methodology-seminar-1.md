@@ -12,13 +12,13 @@ The piece stands on the exhibition floor, placed on top of a white stand. It con
 
 The total amounts to a height of 116cm, and is described by the gallery as *mixed media*. That is no understatement.
 
-The work is described as a sculpture, and also comes with the artist given tagline <sup>[1]</sup> meant to be "seen" and "used".
+The work is described as a sculpture, and also comes with the artist given tagline<sup>[1]</sup> meant to be "seen" and "used".
 
 ---
 
-Photographer, sculptor and journalistic investigator. Paglen *looks for art to develop ways of seeing, things that help us see historical events of today*<sup>[2]</sup>. He takes concern in the topic of privacy, in some cases very directly, but for the majority of his pictural work, he observes the physical (not software or hardware or network) techniques that governmental bodies employ to hide their activities.
+Photographer, sculptor and journalistic investigator. Paglen *looks for art to develop ways of seeing, things that help us see historical events of today* <sup>[2]</sup>. He takes concern in the topic of privacy, in some cases very directly, but for the majority of his pictural work, he observes the physical (not software or hardware or network) techniques that governmental bodies employ to hide their activities.
 
-In his photographs, we see phenomenons such as radial heat, and air pollution, as well as atmospheric pressure on display, which are not new to the field of photography and lens based observation, but when they are shown in the contexts and themes of this artist's work, they take on a function of disguise, deliberately employed by the hidden.
+In his photographs, we see displays of phenomenons such as radial heat, air pollution, as well as atmospheric pressure, which are not new to the field of photography and lens based observation, but when they are shown in the contexts and themes of this artist's work, they take on a function of disguise, deliberately employed by the hidden.
 
 ---
 
@@ -26,10 +26,19 @@ notes on the works context within the exhibition (and or) the broader cultural c
 
 Within all of the topics eluded to in [...] Asymmetrical warfare, this portion of the exhibition deals with data processing. It is the closest we get to the software mechanics of this asymmetricality.
 
-The scenographic relation with the **James Bridle** piece *The Fraunhofer Lines* is thematic, but passive because of the visualization ambition of the prints, whereas the *autonomy cube* attempts to be active.
+The scenographic relation with the **James Bridle** piece *The Fraunhofer Lines* is thematic, but passive because of the relatively simple visualization ambition of the prints, whereas the *autonomy cube* attempts to be active, and work on a few different levels.
 
 ![IMG_20150916_155902.jpg](IMG_20150916_155902.jpg)
-<figcaption>*The Fraunhofer Lines* James Bridle</figcation>
+<figcaption>*The Fraunhofer Lines* <br>006 (MH17 Documents A), 2015 <br> 007 (MH17 Documents B), 2015 <br> 008 (MH17 Documents C), 2015 <br>**James Bridle**</figcation>
+
+Firstly the sculpture itself. The thickness of the plexiglass really gives off a sence of strenght. It looks bullet proof: it is both strong and transparent. I see this a direct image. A way of saying this network is transparent, you can see how it works, and understand it's components, but you can not destroy it.
+
+Then it's functions; the cube generates it's own wifi signal. It distributes an access to the internet that is borrowed off of the gallery. Not only this, but it give you the luxury of routing your traffic after connection through the Tor network. This is what the artist means when saying the piece is meant to be 'used'.
+
+Tor stands for The Onion Router:<sup>[3]</sup>
+> Tor is free software for enabling anonymous communication. The name is an acronym derived from the original software project name The Onion Router. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than six thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult for Internet activity to be traced back to the user: this includes "visits to Web sites, online posts, instant messages, and other communication forms".
+
+So what does this bring to us exactly?
 
 ---
 
@@ -43,13 +52,6 @@ Beyond picking apart the visual apparatus in use for this sculpture, the aspect 
 
 ---
 
-
-![IMG_20150916_155837.jpg](IMG_20150916_155837.jpg)
-
-![IMG_20150916_155902.jpg](IMG_20150916_155902.jpg)
-<figcaption>*The Fraunhofer Lines* James Bridle</figcation>
-
-![IMG_20150916_155911.jpg](IMG_20150916_155911.jpg)
-
 [1]: http://www.paglen.com/index.php?l=work&s=cube&i=5 "Artist website"
 [2]: https://www.youtube.com/watch?v=SDxue3jGAug "transmediale 2014 keynote: Art as Evidence "
+[3]: https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29 "Tor Anonymity Network - Wikipedia"
