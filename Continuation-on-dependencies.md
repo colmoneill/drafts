@@ -1,12 +1,15 @@
-Just came out of a presentation of Annet Dekker's work, in which she spoke in various flavors about achiving, the misunderstanding of, and the possible required mind shift to accommodate such an idea.
+# draft draft
+###### not sure it this is anything
 
-Annet spoke about a piece she wrote for the tate about dependencies. She did not go into very much detail about this, but it seems that the text tries to deal with the various aspects of technical and non technical dependencies required to maintain a project.
+Just came out of a presentation of Annet Dekker's work, in which she spoke in various ways about *digital* achiving, the misunderstanding of, and the possible required mind shift to accommodate such an idea.
+
+Annet spoke about a piece she wrote for the tate about dependencies. She did not go into very much detail about this one, but it seems that the text tries to deal with the various aspects of technical and non technical dependencies required to maintain a project. And the mind shift required to go from 'regular' art conservation to digital art conservation.
 
 While I do not know the scope or outcomes of this piece yet, it did enable questions around why it is so complex to understand (why it is so difficult for your typical everyday person to understand) the complexity of the necessary scheme for net art, media art, software art, to be maintained.
 
-The word litteracy is mentionned. In the first context, visual litteracy, in this context, software litteracy.
+The word literacy is mentioned. In the first context, visual literacy, in this context, software literacy.
 
-This got me thinking about why digital litteracy is not growing as our everyday lives get more and more involved with networked, digital and computed aspect.
+This got me thinking about why digital literacy is not growing as our everyday lives get more and more involved with networked, digital and computed aspect.
 
 Rough structure:
 - You do not have to understand every single layer of a computing system to be able to maintain it.
@@ -28,5 +31,3 @@ I am realizing that this concern I am trying to detail above comes from a frustr
 I came to this school as a way to directly address these topics, surround myself with peers along which I had hoped to be able to develop these thought around software brand dependencies, yet it seems like Apple has already won the war here.
 
 I think a part of what I want to achieve is to stabilize this discourse in a way that I can display the links between software and comfort as a bad thing.
-
- 
