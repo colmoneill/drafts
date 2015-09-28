@@ -3,8 +3,6 @@
 
 Art in the Age of... Asymmetrical Warfare
 
-a) describe a work in the show
-
 ##### *Autonomy cube*, 2014 / Trevor Paglen with Jacob Appelbaum
 ![IMG_20150916_155837.jpg](IMG_20150916_155837.jpg)
 
@@ -39,6 +37,12 @@ Tor stands for The Onion Router:<sup>[3]</sup>
 > Tor is free software for enabling anonymous communication. The name is an acronym derived from the original software project name The Onion Router. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than six thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult for Internet activity to be traced back to the user: this includes "visits to Web sites, online posts, instant messages, and other communication forms".
 
 So what does this bring to us exactly?
+- A metaphor for open source
+- A real symbol of asymmetricality
+- An activist's shout out to the world
+- A tool to convince
+- A trust in a self standing apparatus
+- A reflection of human culture in digital culture
 
 ---
 
@@ -47,8 +51,6 @@ So what does this bring to us exactly?
 This relates to my work or at least what seems to be fueling my research at the moment is the aspect of transparency. There is a not so subtle display here of revelation through the plexiglas while proportionnaly this thick plexiglas would be near indestructible.
 
 It has an almost activist standpoint of demonstration and protection, a revelation of procedure and a setup of protection.
-
-Beyond picking apart the visual apparatus in use for this sculpture, the aspect of "use" has not yet been addressed.
 
 ---
 
