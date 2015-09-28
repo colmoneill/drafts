@@ -14,7 +14,7 @@ This got me thinking about why digital literacy is not growing as our everyday l
 Rough structure:
 - You do not have to understand every single layer of a computing system to be able to maintain it.
 - There is an urgency, well beyond software art maintenance, for a redevelopment of digital literacy.
-- Computing is complex. Computers help us deal with complexity. Computers are not an ends mean, they are tools and therefor they should give back as much as they take. This point has the aim of introducing the next topic of interface.
+- Computing is complex. Computers help us deal with complexity. Computers are not an ends mean, they are tools and therefore they should give back as much as they take. This point has the aim of introducing the next topic of interface.
 - Interface are to blame
   - A two faced machine one looking at you, the other looking at the circuit boards
   - Any interface that tries to make your life easier by hiding layers of complexity of the task you are trying to achieve has a responsibility to textually inform you of what it is trying to do for you. Transparently
@@ -30,6 +30,6 @@ I am realizing that this concern I am trying to detail above comes from a frustr
 
 I came to this school as a way to directly address these topics, surround myself with peers along which I had hoped to be able to develop these thought around software brand dependencies, yet it seems like Apple has already won the war here.
 
-Of course if this does end up crystallizing into some sort of text, I'll have to be very careful in the ways of saying things that relate to brands and the border of these issues with marketing strategies. 
+Of course if this does end up crystallising into some sort of text, I'll have to be very careful in the ways of saying things that relate to brands and the border of these issues with marketing strategies. 
 
-I think a part of what I want to achieve is to stabilize this discourse in a way that I can display the links between software and comfort as a bad thing.
+I think a part of what I want to achieve is to stabilise this discourse in a way that I can display the links between software and comfort as a bad thing.
