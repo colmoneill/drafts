@@ -1,9 +1,9 @@
 # draft draft
 ###### not sure it this is anything
 
-Just came out of a presentation of Annet Dekker's work, in which she spoke in various ways about *digital* achiving, the misunderstanding of, and the possible required mind shift to accommodate such an idea.
+Just came out of a presentation of Annet Dekker's work, in which she spoke in various ways about *digital* achieving, the misunderstanding of, and the possible required mind shift to accommodate such an idea.
 
-Annet spoke about a piece she wrote for the tate about dependencies. She did not go into very much detail about this one, but it seems that the text tries to deal with the various aspects of technical and non technical dependencies required to maintain a project. And the mind shift required to go from 'regular' art conservation to digital art conservation.
+Annet spoke about a piece she wrote for the Tate about dependencies. She did not go into very much detail about this one, but it seems that the text tries to deal with the various aspects of technical and non technical dependencies required to maintain a project. And the mind shift required to go from 'regular' art conservation to digital art conservation.
 
 While I do not know the scope or outcomes of this piece yet, it did enable questions around why it is so complex to understand (why it is so difficult for your typical everyday person to understand) the complexity of the necessary scheme for net art, media art, software art, to be maintained.
 
@@ -29,5 +29,7 @@ I am realizing that this concern I am trying to detail above comes from a frustr
 *Why does nobody seem to care about our digital environments?*
 
 I came to this school as a way to directly address these topics, surround myself with peers along which I had hoped to be able to develop these thought around software brand dependencies, yet it seems like Apple has already won the war here.
+
+Of course if this does end up crystallizing into some sort of text, I'll have to be very careful in the ways of saying things that relate to brands and the border of these issues with marketing strategies. 
 
 I think a part of what I want to achieve is to stabilize this discourse in a way that I can display the links between software and comfort as a bad thing.
