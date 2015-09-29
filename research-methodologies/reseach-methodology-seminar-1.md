@@ -40,7 +40,8 @@ So what does this bring us to exactly?
 
 ---
 
-The relation between this piece and my work is one of transparency. No hidden parts. In fact, all parts rather be exposed. I focus on processes and applications, and the common ground of trust. The autonomy cube speaks about a previously level playing field. Now this field is being skewed. It aims to display, and act out these points of view, and add a layer of discourse with the sculptural aspect.
+The relation between this piece and my work is one of transparency. No hidden parts. In fact, all parts rather be exposed. I focus on processes and applications, and the common ground of trust. The autonomy cube speaks about a previously level playing field. Now this field is being skewed. It aims to display, and act out these points of view, and add a layer of discourse with the sculptural aspect. 
+
 ---
 
 [1]: http://www.paglen.com/index.php?l=work&s=cube&i=5 "Artist website"
