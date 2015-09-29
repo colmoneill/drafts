@@ -19,7 +19,7 @@ This means shit. The exhibition contains only a douzen pieces; it hardly address
 
 Maybe it's ok to think of it as an economy if you work for google. Yes then, in that case, maybe you're seeing the internet as an economy.
 
-A workshop called coctails & helvetica
+A workshop called cocktails & helvetica
 seemingly around the worst internet based puns imaginable, which are empty of any sort of lateral meaning, basted on booring colors, with bad centered type.
 
-The attitude of using these throughout the gallery and at the opening asks you to play along with these ideas, asking you to say yes to these items said by other, taken out of context by Coupland. 
+The attitude of using these throughout the gallery and at the opening asks you to play along with these ideas, asking you to say yes to these items said by other, taken out of context by Coupland.
