@@ -1,5 +1,5 @@
 #Research methodologies
-####Steve Rushton - research methodologies semiar
+####Steve Rushton - research methodologies seminar
 
 Art in the Age of... Asymmetrical Warfare
 
@@ -23,7 +23,7 @@ The scenographic relation with the **James Bridle** piece *The Fraunhofer Lines*
 ![IMG_20150916_155902.jpg](IMG_20150916_155902.jpg)
 <figcaption>*The Fraunhofer Lines* <br>006 (MH17 Documents A), 2015 <br> 007 (MH17 Documents B), 2015 <br> 008 (MH17 Documents C), 2015 <br>**James Bridle**</figcation>
 
-Firstly the sculpture itself. The thickness of the plexiglass really gives off a sence of strenght. It looks bullet proof: it is both strong and transparent. This a direct image. A way of saying this computer object is transparent, you can see how it works, and understand it's components, but you can not destroy it.
+Firstly the sculpture itself. The thickness of the plexiglass really gives off a sense of strength. It looks bullet proof: it is both strong and transparent. This a direct image. A way of saying this computer object is transparent, you can see how it works, and understand it's components, but you can not destroy it.
 
 Then it's functions; the cube creates it's own wifi signal. It distributes an access to the internet that is borrowed from the gallery. Not only this, but it give you the added value of routing your traffic after connection through the Tor network. This is what the artist means when saying the piece is meant to be 'used'.
 
@@ -40,10 +40,10 @@ So what does this bring us to exactly?
 
 ---
 
-The relation between this piece and my work is one of transparency. No hidden parts. In fact, all parts rather be exposed. I focus on processes and applications, and the common ground of trust. The autonomy cube speaks about a previously level playing field. Now this field is being skewed. It aims to display, and act out these points of view, and add a layer of discourse with the sculptural aspect. 
+The relation between this piece and my work is one of transparency. No hidden parts. In fact, all parts rather be exposed. I focus on processes and applications, and the common ground of trust. The autonomy cube speaks about a previously level playing field. Now this field is being skewed. It aims to display, and act out these points of view, and add a layer of discourse with the sculptural aspect.
 
 ---
 
 [1]: http://www.paglen.com/index.php?l=work&s=cube&i=5 "Artist website"
 [2]: https://www.youtube.com/watch?v=SDxue3jGAug "transmediale 2014 keynote: Art as Evidence "
-[3]: https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29 "Tor Anonymity Network - Wikipedia"
+[3]: https://en.wikipedia.org/wiki/Tor_(anonymity_network) "Tor Anonymity Network - Wikipedia"
