@@ -1,17 +1,5 @@
 # What How Why — research methodologies:
 
-## Drawing curved
-#### What
-A text attempting to collect the reasons for frustrations when drawing vector curves in design creation software. A vector curve is an image making and describing technique that opposes itself to bitmap, pixel based images.
-
-#### How
-In a textual form, in collaboration with a Belgian collegue, taking examples and then writing about them. Lacing the conclusions from the examples toghether is
-
-#### Why
-The project aims to discuss and progress on the topic. It's amibitions are quite low, if only to start a discussion.
-
----
-
 ## Galerie Rodolphe Janssen website
 #### What
 Making a website to enable outwards communications of a contemporary art gallery in Brussels. The project is about building a tool to edit the content of a website that displays and explains the events that the gallery organises. Content editability and ease of use are key.
@@ -39,3 +27,18 @@ With help from other researchers on this topic I devised ways of relating the ma
 #### Why
 Because this is an interesting topic for graphic designers who regularly need to deal with hierarchy in content. Also because the school's project call was interesting. It displayed a healthy dose of openness. Also because I enjoy the idea of challenging schooling models. Teacher to students versus peers to peers.
 (50 words)
+
+---
+
+## Drawing curved
+#### What
+A text attempting to collect the reasons and frustrations of drawing vector curves in graphic design software. A vector curve is an image making —and describing— technique that opposes itself to bitmap, pixel based images. The text exists to think about design processes, and how our tools work.
+(48 words)
+
+#### How
+In a textual form, in collaboration with a Belgian colleague, taking examples of these issues and then writing about them. Lacing the conclusions from the examples together to attempt a coherent body of text. Also it is made possible by some budget and a publishing environment that encourages these thought processes.
+(51 words)
+
+#### Why
+Mainly because we're stunned by what digital practitioners accept to put themselves through for production. Because the tools you use influence the way you work. These tools have attitudes. These attitudes can and should be questioned. The project aims to discuss and progress on the topic. It's ambitions are quite low, if only to start discussing.
+(56 words)
