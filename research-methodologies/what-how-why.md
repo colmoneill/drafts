@@ -28,3 +28,14 @@ Because I have acquired some knowledge on the techniques that could enable such 
 ---
 
 ## HEAR - Haute Ecole des Arts du Rhin — HTML 2 print
+#### What
+This was a workshop I was asked to organise for the students of an art school in Strasbourg in France in March 2015. I developped a set of work sessions around markup languages for the web and the way of styling the content with aims of printing it from the browser.
+(51 words)
+
+#### How
+With help from other researchers on this topic I devised ways of relating the markup language structures to text hierarchy. Rather than sitting down and plainly learning HTML, we went through versions of this language that let us use extra layers of abstraction. This abstraction helped us to remain focused on structure rather than semantics.
+(55 words)
+
+#### Why
+Because this is an interesting topic for graphic designers who regularly need to deal with hierarchy in content. Also because the school's project call was interesting. It displayed a healthy dose of openness. Also because I enjoy the idea of challenging schooling models. Teacher to students versus peers to peers.
+(50 words)
