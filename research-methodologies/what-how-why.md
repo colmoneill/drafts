@@ -1,8 +1,8 @@
-# What How Why — research methodologies:
+# What How Why  research methodologies:
 
 ## Galerie Rodolphe Janssen website
 #### What
-Making a website to enable outwards communications of a contemporary art gallery in Brussels. The project envolved building a tool to edit the content of a website that displays and explains the events that the gallery organises. Content editability and ease of use were key.
+Making a website to enable outwards communications of a contemporary art gallery in Brussels. The project involved building a tool to edit the content of a website that displays and explains the events that the gallery organises. Content editability and ease of use were key.
 <br><sup>(46 words)
 
 #### How
@@ -15,7 +15,7 @@ Because I have acquired some knowledge on the techniques that could enable such 
 
 ---
 
-## HEAR - Haute Ecole des Arts du Rhin — HTML 2 print
+## HEAR - Haute Ecole des Arts du Rhin  HTML 2 print
 #### What
 This was a workshop I was asked to organise for the students of an art school in Strasbourg in France in March 2015. I developed a set of work sessions around markup languages for the web and the way of styling the content with aims of printing it from the browser.
 <br><sup>(51 words)
@@ -25,14 +25,14 @@ With help from other researchers on this topic I devised ways of relating the ma
 <br><sup>(55 words)
 
 #### Why
-Because this is an interesting topic for graphic designers who regularly need to deal with hierarchy in content. Also because the school's project call was interesting. It displayed a healthy dose of openness. Also because I enjoy the idea of challenging schooling models. Teacher to students versus peers to peers.
+Because this is an interesting topic for graphic designers who regularly need to deal with hierarchy in content. Also because the schools project call was interesting. It displayed a healthy dose of openness. Also because I enjoy the idea of challenging schooling models. Teacher to students versus peers to peers.
 <br><sup>(50 words)
 
 ---
 
 ## Drawing curved
 #### What
-A text attempting to collect the reasons and frustrations of drawing vector curves in graphic design software. A vector curve is an image making —and describing— technique that opposes itself to bitmap, pixel based images. The text exists to think about design processes, and how our tools work.
+A text attempting to collect the reasons and frustrations of drawing vector curves in graphic design software. A vector curve is an image making and describing technique that opposes itself to bitmap, pixel based images. The text exists to think about design processes, and how our tools work.
 <br><sup>(48 words)
 
 #### How
