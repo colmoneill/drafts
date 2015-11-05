@@ -1,4 +1,3 @@
-<div style="width: 50%">
 0.3 MMDC Project Outline Draft colm
 ===================================
 
@@ -11,7 +10,7 @@ Tentative Title(s)
 Introduction
 ------------
 
-I am observing how interfaces seem to be deliberately trying to keep us away from the mechanic, and the processes happening under the hood of our computers. With this project I hope to be able to find and explain the line between understanding software and using software, and the dependencies that these two items interchange.
+I am observing how interfaces seem to be deliberately trying to keep us away from the mechanic, and the processes happening under the hood of our computers. With this project I hope to be able to find and explain the line between understanding software and using software, and the dependencies that these two items interchange. What is it about the language of the software vendor that breaks so far away from the language of the user? Is it deliberate that any time I use a help / search menu in software I feel like I'm being talked down to? How is it that tipycally non-computer-comfortable people have developed such a great relationship with touch screens? Is user friendliness simply a marketing plan to dis-educate users away from common standard computing processes and into a semi comfortable way of working with tools designed to work in closed echosystems?
 
 What are you working on now?
 ----------------------------
@@ -21,18 +20,19 @@ Collecting examples, and reading about interfaces, discourse networks, and contr
 What do you want your first project to be?
 ------------------------------------------
 
-A foundation for the rest of my work here at PZI. I'd like to use this first project to go in head first into these questions I've been having, to hopefully manage to explain why I choose the tools I choose and why I think it is a pressing issue for media and design in general.
+Because these questions are the ones that lead me to adopt new tools for myself. These new tools are the ones that made me want to join the Media Design department. Because this is a curiosity I have to explore now, and turn it into a foundation for the rest of my work here at PZI. I'd like to use this first project to go in head first into these questions I've been having, to hopefully manage to explain why I choose the tools I choose and why I think it is a pressing issue for media and design in general. I also feel the need to develop my own vocabulary and arguments to remain coherent throughout all these process choices.
 
 How do you plan to make it?
 ---------------------------
 
 ### Reading list
 
+-   ~~Matthew Fuller - it looks like you're writing a letter: Microsoft Word~~
 -   Protocol - Alexander Gallaway
 -   Program or be programmed - Douglas Rushkov
 -   Katherine Hayles - How We Think
 -   ~~Lori Emersons - Reading Writing Interfaces~~
--   ~~Suggestions ?~~ <small>I'm currently drowing in reading for TP2 but I'm finding lots of items and interests there that will help me along in the initial research for this project. I *just* need to loop those back together. Notation system currently in development.</small>
+-   ~~Suggestions ?~~ <small>I'm still drowning in reading for TP2 but I'm finding lots of items and interests there that will help me along in the initial research for this project. I *just* need to loop those back together. Notation system currently in development.</small>
 
 I hope to bring together some theoretical background to some writings, and illustrate them with some examples. Ultimately I would like to find a way to illustrate the contradictions and the irony of the issues in a visual manner to slide items out of their context, as a metaphor, or explanation technique.
 
@@ -66,12 +66,18 @@ Relation to previous project in the non acceptance of tools as a finished object
 Relation to a larger context
 ----------------------------
 
-The larger context is probably why I think this is going to be a topic for me. I hate the fact that vendors of numeric items, software or hardware, take advantage in the lack of know how of most of their customers. In the distance is a relation to the current hot topic of privacy and the hidden proceeding revealed by Snowden. The same context applies to family members and close friends, who end up committing to branded products because of marketing strategies.
+The larger context is probably why I think this is going to be a topic for me. I hate the fact that vendors of numeric items, software or hardware, take advantage in the lack of know how of most of their customers.
+
+Considering your customer to be stupid is something that happens broughtly in computing. Why is this relation of power so present here, and not in other vending schemes?
+
+In the distance is a relation to the current topic of privacy and the necessary understanding of the implications of user-friendly systems.
+The more our devices shut us out of their processes, the less aware we are about how they work, and more frustratingly, what else they do apart from performaing a task, magically.
+
+User data, access to identification, email, text messages, location, connection information, these pieces of information are given away almost every time we install new applications on our devices. We're not only fed bad interface to dumb us down, but we're being used for our data, in the aim of participating in demographic schemes, to better understand how we interact with these devices, and how better to sell us advertisement.
+
+It's then an easy bridge over to the hidden proceeding revealed by Snowden in huge govenrment orgs. The reason for briging this up, is that as with any argument, there is a counter argument that seems to think that new development in interface is a good thing for the masses of people who have a desire to use computers, but have not been able to feel comfortable with them. I should find a logical way of putting that point of view aside by arguing that what is trated in this new relationship is, indeed a degree of comfort, but the implications of this new found ability is overweighing the scales.
 
 References
 ----------
-
+[Michael Seemann — Digital Tailspin: Ten Rules for the Internet After Snowden](http://networkcultures.org/blog/publication/no-09-digital-tailspin-ten-rules-for-the-internet-after-snowden-michael-seemann/)
 <http://reader.lgru.net/pages/index/>
-
-</div>
-
