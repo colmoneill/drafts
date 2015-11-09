@@ -4,9 +4,15 @@ Tone, styleguide, I have political views, all that stuff
 Saas Laad?
 ### The problem — thesis:
 
-User friendly intuitive interface design is participating in the de-education of it's public.
-* within specific environments — Windows into coputin
-* This is not new, it's just more prominent currently.
+** *User friendly* and *intuitive interfaces* are contributing to the digital diseducation of it's audience. **
+
+I give out this phase as a structure for analysis, as well as a statement. To pick it apart we must begin with interface, what it is, why it is necessary, and how it has migrated from everyday practical objects, into the reprensentations and accesses they are in the real of the screens. Then look a little closer, within the practice, we've named two types, two trends relating to the practice of interface design, but why have these words ever come together User-Friendly or who feels grand enough to be able to name his or her interface design intuitive?
+
+Interface is the line between two parts, it is the point of negociation. Interface is an answer finder when problems arise. It's the step between complexity and use, the system that gives access. But the way it decides to present itself is the main topic of discussion today, how visible should it be, how easy should this tool help me accomplish this task, thse are the questions that are being asked, questions for which only aesthetic trends have come up with answers.
+
+Then about this claim of diseducation. A made up word. Unlearning seems too deliberate, where as diseducation could be something that happens with or without you being aware. But before this word invention is a large notion of education and the resulting literacy. Add the word digital on the front of that, and we've gotten to the core of the issue.
+
+I am not going to make the claim that the result of this interface trend is a deliberate one, but I will explain how it is happening. This bigger issue around interfacing is not new, it's just more prominent in vocabulary these days.
 
 ### What is interface
 * what does it aim to do
