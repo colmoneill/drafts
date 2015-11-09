@@ -40,3 +40,10 @@ machine  +-------------------------------+  interface  +------------------------
 
 
 ```
+
+### Resolve?
+Dare I present F/LOSS as a solution? Probably the weakest domain of open source applications?
+
+### Solutions — Politicized
+
+### Avoid the digital Tailspin
