@@ -2,6 +2,24 @@
 ### disclaimer — preface — tone explication
 Tone, styleguide, I have political views, all that stuff
 Saas Laad?
+
+### Observation:
+One of the commonly given reason for the success of our human species is our ability to adapt and the ability to be nomadic. From the historic point of view, this makes sence up to now, but while this reason was also widely considered a defining factor, we're drifting away from that today.
+
+We, as a culture, have developed a variety of networks, with different intents, but the most successful, and most prominent today is an information distribution network that we call the internet. It, also, has an ability to adapt and be nomadic, while not exactly in the ways described above, it is possible to partially attribute it's success to it's distributed, and non centralised approach to information distribution.
+
+With the different cycles of development and growth of what this power network has observed, it is a good example to take for an account of how our culture has developped into one of abundance over the differently fashioned one of need for adaptability.
+
+This abundance is relative to the amount of choices and paths available to us as individuals, in all the strats of our organisations, from sectors of activity, religious belief,
+
+So we can observer a common state. We are all equals, and nothing can stop one from venturing into any geography, industry, belief, or societal model. And we are
+
+Need to make the connection between this abundance of choice, blazéness as the result, and then disinterest linked when eventually a choice is made.
+
+The default attitude is to retain all these open doors, but by making no choice at all, you effectively dissapear.
+
+
+
 ### The problem — thesis:
 
 ** *User friendly* and *intuitive interfaces* are contributing to the digital diseducation of it's audience. **
