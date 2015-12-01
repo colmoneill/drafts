@@ -4,7 +4,7 @@ Tone, styleguide, I have political views, all that stuff
 Saas Laad?
 ### The problem — thesis:
 
-** *User friendly* and *intuitive interfaces* are contributing to the digital diseducation of it's audience. **
+* *User friendly* and *intuitive interfaces* are contributing to the digital diseducation of it's audience. *
 
 I give out this phase as a structure for analysis, as well as a statement. To pick it apart we must begin with interface, what it is, why it is necessary, and how it has migrated from everyday practical objects, into the reprensentations and accesses they are in the real of the screens. Then look a little closer, within the practice, we've named two types, two trends relating to the practice of interface design, but why have these words ever come together User-Friendly or who feels grand enough to be able to name his or her interface design intuitive?
 
