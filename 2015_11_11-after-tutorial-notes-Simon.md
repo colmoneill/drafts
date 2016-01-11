@@ -23,6 +23,6 @@ History books tell us that what makes humans successful as a species is our abil
 
 This crosses back with a small notion I had hoped to introduce in this; the notion of choice https://pzwiki.wdka.nl/mediadesign/User:Colm/RW%26RS-project-outline-0.3#How_do_you_plan_to_make_it.3F (last paragraph)
 
-Simon recommended to look into this book [ref missing] on the history of the pencil & a publication called Abstractin Craft — The practiced digital hand.
+Simon recommended to look into this book [ref missing] on the history of the pencil & a publication called Abstracting Craft — The practiced digital hand.
 
 This topic finally gives me a push towards reading Isabelle Stengers "Introductory Notes on an Ecology of Practices" http://reader.lgru.net/texts/introductory-notes-on-an-ecology-of-practices/
