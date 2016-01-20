@@ -8,7 +8,10 @@ In ''Grammophone, Film, Typewriter'' Kittler proposes the example of the jet air
 
 ===== body =====
 
-* Today's media enviroment is not different, but it has advanced.
+* Today's media environment is not different, but it has advanced.
+
+Kittler's vision has a timeframe of *the not too distant future*. It's safe to say that, indeed, some quarter century after this announcement, 'the very difference that media make [are] subsumed and cancelled [...] in the feedback loop'. We no longer have any physical distinction between media types. We used to be able to hold a record, see the imprint of lead type cuts on paper, preview a film by holding it up to a window. Today, we'd be satisfied with the response blink of a blueish tint LED light on the hard drive.
+
 * The relation of depencency has increased.
 * The variaty of examples has grown, but media types have not changed very much.
 * An up to date example that also includes laziness, distraction and service providers.
