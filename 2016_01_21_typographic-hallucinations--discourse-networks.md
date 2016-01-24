@@ -1,16 +1,30 @@
 # Typographical hallucinations and discourse network; review essay.
 #### John Jonston introduction to F. Kittler: Media theory After Poststructuralism
 ---
-##### introduction
-
 In *Grammophone, Film, Typewriter* Kittler puts forwards the example of the jet airliner as a meeting point for many media types, ranging from radar to microwaved meals, *the passengers are encased in a "multimedia embryonic sack"*. (Johnston on Kittler, 1997, p.3) The choice of this example item, while still relevant today, is indicative of the time at which the text was written. One could wonder if Kittler would have chosen a different example, had he written within today's media landscape. As the argument constructs, one of the main points put forwards is one called the *dependent variable* —the end result of our senses perceptions being blinded by the non differentiation of media types, in the scheme of computer technologies— where the media situation and environment would end up being a collection of scenarios resulting from the collaboration between engineers and sales people. Technical and modernist knowledge holders on one end, finance driven careerists on the other, together on the mission of distribution. Kittler's deptiction is some 30 years old now, it is safe to say that today's media environment is quite different to the formers. Is this example still the most illustrative of the industry working today?
 
-##### body
+#### Landscapes
 
-Before any question is addressed, we must define what is meant by media landscape, in order to analyse it properly. A landscape is a wide angle, a far reaching view, with items in the tangible foreground, other much away from us. We might not see all of it, we might not even recognise a lot of it, but the use of the idea of a landscape to peer at media as an entity is helpful. Meanwhile let's just remind ourselves that this keyword is the plural of the term *medium*, and *spans a relative diversity* (Ryan, 2012, p.1)  
+Before any question is addressed, we must define what is meant by media landscape, in order to analyse it properly. A landscape is a wide angle, a far reaching view, with items in the tangible foreground, other much away from us. We might not see all of it, we might not even recognise a lot of it, but the use of the idea of a landscape to peer at media as an entity is helpful. Meanwhile let us remind ourselves that this keyword is the plural of the term *medium*, and *spans a relative diversity* (Ryan, 2012, p.1).
+
+The media landscape that Kittler was mourning is one within which media disciplines have an associated medium. This is not to say that digressions did not occur, but there was an intent and a clear use case for most mediums, audio tape kept audio, film kept images, paper kept text. He was foreseeing these distinctions to disappear completely, and he was entirely right. We now are on the entire opposite end of the spectrum; mediums coagulate to fit into a greater perspective of media, unified platforms on which we may consume most types of known mediums. Kittler forsaw this happening "with the full deployment of fiber optic cables and computer technology". Practically speaking, this is not exactly the case of today, but alternate infrastructures have made that effect happen. The internet is indeed the meeting point of networks and technologies, making possible for pretty much any medium existence, or a close, and in most cases, sufficient representation. We will come return to this trans-mediation to web fallbacks as possibly the explanation of a link between the depencency variable and a deliberate control veil later on.
+
+The arrival of this unified shared meeting point and the adaptations of old(er) mediums to work on the web have seen the creation of categories of mediums that are considerably unique and self standing. A notable dimension of this creation is also the world of 'mobile' technologies, requiring a lot of re-inventivity and adaptations of mediums, or at least, a new sub category of medium morphisms aiming to make content accessible to smaller and simpler mini computers. I will add that most new mediums created for (and from?) the web follow the same basic pattern: starting with a category of media, then resolving it's distribution for one sub— or hypo— network. (I distinguish these types of networks I believe all networks to be concentrically embedded within each other, the only nuance is their order of relation, which is not the object of this paper.)
+
+From this formula we discover the makings of news apps, music playing websites, image sharing networks and video distribution environments. —A more focused analysis of these origins could be made by tracing back the governing problems that are resolved by the Apple computer ([and now trademarked](http://edition.cnn.com/2010/TECH/mobile/10/12/app.for.that/index.html)) campaign 'There is an app for that'. We now also can see that if our media landscape is different from the DN1900, our current environment is one of simple combinations of earlier divided dimensions of media. No new categories of mediums have been invented, but our usage of these formers now tend to happen in subcategories, in conjunctions of networks and mediums.
+
+#### Vocabulary
+
+One resulting, unresolved part of this praxis of mixing and matching an feeling of inability for precise typification. It's  increasingly hard to describe the utility or usage of our new patchwork mediums, and in the attempt thee of, we've begun using terms that actually broaden narratives. Deciding when or how new vocabulary can help solve the description of doings is an uncharted field, unregulated and not maintained, if only by a marketing department associated with the distribution of a product. Still, we've adopted a vocabulary in the last decade which seems to help us place the contemporaneous dimension of a product. Ad interim, these additions are again, broad terms in opposition to what we would want them to be, specific words to narrow a topic down. Some of these words: technology, platform, app, interface, experience, users, cloud, data, mobile, ... the list goes on.
+
+The contemporary lexicon of patchwork mediums are an echo of the development of the dependency variable: we understand from Kittler that when a medium type encoded in digital numbers, we become dependent on the vision of reality that has been devised by the engineer —but not only— responsible for the translation. This is one level of adaptation. Today, we reach upon a second level of adaptation when the first encoding is then incorporated and revised into today's patchwork mediums. The lexical field we use for today's media shows us how far removed we have become. We no longer use computers, we use techologies, interfaces have become experiences, we are now people, no longer users. (Lialina, 2015).
+
+#### Spiraling dependency
+
+In the previous paragraph, the term *adaptation* is used to explain interpretation and translation from one form to an other. These translations, each time they occur, create a hierarchy between system deviser and system user. It is exactly the dependency that Kittler warns us of. Continuing on the understanding of the exponential multiplication of medium sub-types as soon as they get crossed, the same happens to our level of dependency, and our distance away from the original form of the medium.
 
 
-* Today's media enviroment is not different, but it has advanced.
+
 * The relation of depencency has increased.
 * The variaty of examples has grown, but media types have not changed very much.
 * An up to date example that also includes laziness, distraction and service providers.
@@ -18,4 +32,4 @@ Before any question is addressed, we must define what is meant by media landscap
 
 ##### conclusions
 
-Nothing really seemes to have changed, but there may be a set new components in the depencency variable which could end up being destructive.
+Nothing really seems to have changed, but there may be a set new components in the depencency variable which could end up being destructive.
