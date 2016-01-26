@@ -22,4 +22,6 @@ So is design the polar opposite of performance art? Performance art being a mix 
 
 We're facing this dilemma right now: should I perform in front of you right now, or should I stick to what I think might work best for the sake of communication?
 
-Yeah, but doing something different is good, right, get out of your comfort zone? Ok but no, I'm not interested in difference, I'm interested in bettering myself, and bettering myself first means resolving this in written form. In pensive form. In logical form, in arguable form.  
+I guess I'm confronting the honesty of direct address with the risk of fuzziness.
+
+Yeah, but doing something different is good, right, get out of your comfort zone? Ok but no, I'm not interested in difference, I'm interested in bettering myself, and bettering myself first means resolving this in written form. In pensive form. In logical form, in arguable form.
