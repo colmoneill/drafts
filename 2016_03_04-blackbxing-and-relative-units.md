@@ -12,6 +12,8 @@ The difference is though, that when you first see a tree, you only see the front
 
 There is a good comparison to software here.
 
+Add notes from [Software as a critique session](2016_02_14_software-as-a-critique-at-LAG.md). This is where I am comming from.
+
 ## relative units
 
 Joanna started me off on this 'topic' with a question about organic units. Forwarding the question along, it's widening to pifométrie, kayak makers, and inches. Inches, feet, relative units that got standardised, or stabilised at a point in time.
