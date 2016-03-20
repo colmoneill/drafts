@@ -6,7 +6,7 @@ Black boxes as the only mechanism available after a plain crash? Is there someth
 
 Meanwhile we're covering javascript in our prototyping class. And as an unkown language, I'm happy to start a project with the only excuse to practice, learn and understand. Roll in scrollo-meter. This prototype will be the subject of an essay in itself, but off the top of my head here is a list of items that could easily be unpacked & commented on:
 * Scrolling wasn't always as easy as it is now
-* Time lines
+* Timelines
 * The responsibility of touch screens:
   * their portrait orientation
   * their limited interactions
@@ -14,3 +14,5 @@ Meanwhile we're covering javascript in our prototyping class. And as an unkown l
 * changing history: remembering context over content
 * fax paper metaphor
 * binge scrolling & distances covered
+
+I realize now that the idea of wedging in between boxes had been explained in [previous notes](2016_03_07_Monday-notes.md), so I'll concentrate on making the essays happen now.
