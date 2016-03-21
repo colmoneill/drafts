@@ -36,3 +36,13 @@ In observation, the packing and unpacking of the media is made as simple as poss
 The landscape of media is not that different from the one at the time at which Kittler wrote the text that spawned this essay. What we have seen is an increase in subcategories and cross sections of original medium types. And the unsettling idea that while we move forwards within media, while our day to day usage is supposedly become easier, we understand less about it now more than ever.
 
 If Kittler had had our media landscape at hand to use for examples of meeting points of embryonic multimedia, he might well have spoken of Smart TVs as a type of environment that displays amounts of unclear (or at least non explained) unattainable back end knowledge to keep the device working, parallel with cocooning of enjoyable access to a variety in type and in class of media, of content. An example of a world where if you desire to access, you have no choice but to accept a degree of blindness.
+
+---
+
+###### Bibiliography
+
+* John Johnston - Introduction Friedrich Kittler: Media Theory After Poststructuralism
+* Olia Lialina - Turing Complete User, 2012
+* Olia Lialina - Rich User Experience, UX and Desktopization of War, 2014
+* Ted Nelson, Computer Lib/Dream Machines, Revised Edition 1987
+* Douglas Rushkoff, Program or be Programmed, 2010
