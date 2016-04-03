@@ -36,3 +36,37 @@ then I tried a few more basic ones, to actually see if I could draw out what I t
 * ![](http://colm.be/owncloud/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=635&a=true&file=IMG_20160403_193533-crop.jpg&t=Z67Oix5H61DScVj&scalingup=0)
 
 *  ![](http://colm.be/owncloud/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=635&a=true&file=IMG_20160403_193508-crop.jpg&t=jDBUYXyKuftH2kX&scalingup=0)
+
+---
+
+#### Temporary conclusion:
+
+I understand why these technologies are boxed up, and why these boxes must exist. I am fine with them, but understanding their sequence, and where I stand in their chain could be valuable.
+
+So I started to look at the spaces between the boxes. Leverage points. Friction points, where it might be possible to insert objects (prototypes) in order to reveal the structure.
+
+#### Prototypes:
+
+* tips by tools: a bit old now, but still something I want to finish off. I attempted some javascript prototypes but not very promising with my skills at the moment. So I designed what I imagined the item to be, and I also have a CSS only proof of concept.
+Modes of address in interface.
+
+* plug-ins / add-ons
+'stylish' redesigns
+
+greasemonkey
+
+* scroll meter
+  * the starting point
+  * an excuse to learn js
+  * non critical
+  * question of the metrics, working out the metrics
+  * a bit of the physical world on screens
+  * relative units — relative inches
+  * protoype homepage
+  * plug-in method ?
+
+#### prototype ideas
+* visible traceroute, claim how complicated your page is!
+* cookie display?
+
+#### live notes, tutorials, etc
