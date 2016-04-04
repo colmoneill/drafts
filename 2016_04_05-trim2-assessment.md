@@ -1,3 +1,21 @@
+<style>
+   html{
+     font-family: monospace;
+   }
+   div.container{
+     width: 90%;
+     margin: 0 auto;
+   }
+   img.plan{
+     width: 100%;
+   }
+   a{
+     text-decoration: none;
+     color: black;
+     border-bottom: 1px dotted black;
+   }
+ </style>
+ 
 # trim 2 assessment
 
 Tuesday 5th April 2016 — 14:00
