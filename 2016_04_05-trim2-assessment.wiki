@@ -1,76 +1,121 @@
-<style>
-   html{
-     font-family: monospace;
-   }
-   div.container{
-     width: 90%;
-     margin: 0 auto;
-   }
-   img.plan{
-     width: 100%;
-   }
-   a{
-     text-decoration: none;
-     color: black;
-     border-bottom: 1px dotted black;
-   }
- </style>
+<div class="container">
+
+<div class="section">
+
 = trim 2 assessment =
 
-Tuesday 5th April 2016 — 14:00
+Tuesday 5th April 2016 -- 14:00
 
-==== connecting previous assessment ====
+=== connecting previous assessment ===
 
-[http://pzwart1.wdka.hro.nl/~colm/trimester-1_assessment/ link to trim 1]
+
+
+* [http://pzwart1.wdka.hro.nl/~colm/trimester-1_assessment/ link to trim 1 assessment presentation]
+* [https://pzwiki.wdka.nl/mediadesign/User:Colm/Trimester2-assesment this page on PZ wiki]
+* [http://pzwart1.wdka.hro.nl/~colm/trimester-2_assessment/2016_04_05-trim2-assessment.html this page on PZwart1 server]
 
 Slowly moving towards a broader consideration of interface and black boxing. Was the clarity I was calling for just a result of logical development following a method of boxing tools &amp; utilities up? Are these boxes in a chain sequence or is it more organic? Where do I, the user, stand in this sequence?
 
+[[File:researchingplan3-2.svg|class=research-plan1]] [[File:researchingplan3-1.svg|class=research-plan2]]
 The 'necessity' for such a system is clear, I'm glad one does not have to run each intricate item and dependency when executing a task. This model is not flawed or even really broken in any way. I'm looking at a logical consequence of this modeling: it's ''opaqueness''. (Looping back to this seems terribly logical. It is suddenly quite a simple point to be looking at my research from, but anyway.)
 
 I'm putting aside the moralistic and fearful opinions I have voiced between the start of the year and now, in order to concentrate on projects that might generate discussion / opinions for the audience it self.
 
-Anyway, in attempting to answer the question around the structure or sequence of the black boxes scheme, I collected a few examples of attempts of visualisations:
+In attempting to answer the question around the structure or sequence of the black boxes scheme, I collected a few examples of attempts of visualisations:
 
-* [[File:https://pzwiki.wdka.nl/mw-mediadesign/images/1/12/Montage-5.png|test]] http://noahveltman.com/internet-shape/
-* [[File:http://internet-atlas.net/img-web/relief33.svg|frame|none]]
 
-* [[File:http://internet-atlas.net/img-web/cadre11.png|frame|none]]
+</div>
+<div class="section">
 
-* [[File:http://internet-atlas.net/img-web/divise13.jpg|frame|none]]
+=== maps! schemes! ===
 
-* [[File:http://internet-atlas.net/img-web/en-idiot1.svg|frame|none]]
+[[File:https://pzwiki.wdka.nl/mw-mediadesign/images/1/12/Montage-5.png|class=plan]]
+http://noahveltman.com/internet-shape/
+[[File:http://internet-atlas.net/img-web/relief33.svg|class=plan]] [[File:http://internet-atlas.net/img-web/cadre11.png|class=plan]] [[File:http://internet-atlas.net/img-web/divise13.jpg|class=plan]] [[File:http://internet-atlas.net/img-web/en-idiot1.svg|class=plan]] [[File:http://internet-atlas.net/img-web/en-collage2.svg|class=plan]]
+http://internet-atlas.net/
+[[File:|class=plan]]
+Michael's 'where does the code run' drawing on the wiki?
+[[File:|class=plan]]
+'if you please draw me a cloud' ?
 
-* [[File:http://internet-atlas.net/img-web/en-collage2.svg]] http://internet-atlas.net/
-* [[File:]] Michael's 'where does the code run' drawing on the wiki?
-* [[File:]] 'if you please draw me a cloud' ?
+-----
 
-==== Temporary conclusion: ====
+then I tried a few more basic ones, to actually see if I could draw out what I thought I knew
+
+[[File:IMG_20160403_193533-crop.jpg|class=plan]] [[File:IMG_20160403_193508-crop.jpg|class=plan]]
+
+</div>
+=== Temporary conclusion: ===
 
 I understand why these technologies are boxed up, and why these boxes must exist. I am fine with them, but understanding their sequence, and where I stand in their chain could be valuable.
 
-So I started to look at the spaces between the boxes. Leverage points. Friction points, where it might be possible to insert objects (prototypes) in order to reveal the structure.
+'''''So I started to look at the spaces between the boxes. Leverage points. Friction points, where it might be possible to insert objects (prototypes) in order to reveal the structure.'''''
 
-==== Prototypes: ====
+=== Prototypes: ===
 
-* tips by tools: a bit old now, but still something I want to finish off. I attempted some javascript prototypes but not very promising with my skills at the moment. So I designed what I imagined the item to be, and I also have a CSS only proof of concept. Modes of address in interface.
-* plug-ins / add-ons 'stylish' redesigns
+[http://pzwart1.wdka.hro.nl/~colm/prototypes/tips-by-tools/ tips by tools:] a bit old an idea now, but still something I want to finish off. I attempted some javascript prototypes but not very promising with my skills at the moment. So I designed what I imagined the item to be, and I also have a CSS only proof of concept. Modes of address in interface.
+[http://pzwart1.wdka.hro.nl/~colm/prototypes/cross-publish/ cross publishing]
+* writing text in Markdown
+* run a publishing script
+* places text on a wiki page, pzwart1/~colm/, and a repo backup
 
-greasemonkey
-
+plug-ins / add-ons [https://userstyles.org/styles/107022/clean-wiki-splitted 'stylish'] redesigns
+[http://wiki.greasespot.net/Main_Page greasemonkey]
+[http://pzwart1.wdka.hro.nl/~colm/prototypes/scrollometer/ Scroll-o-meter]
 * scroll meter
 * the starting point
 * an excuse to learn js
 * non critical
 * question of the metrics, working out the metrics
+* [https://pzwiki.wdka.nl/mediadesign/User:Colm/RW%26RS-scrolling-essay An essay. RW &amp; RM]
 * a bit of the physical world on screens
 * relative units — relative inches
 * protoype homepage
 * plug-in method ?
 
-==== prototype ideas ====
+=== prototype ideas ===
 
 * visible traceroute, claim how complicated your page is!
 * cookie display?
 
-==== live notes, tutorials, etc ====
+=== live notes, tutorials, etc ===
 
+I write up these quick notes and thoughts, and try to date them. They stay collected in a folder called drafts to lower expectations:
+* [[../drafts/research-methodologies/|research-methodologies/]] 11-Nov-2015 14:49 -
+* [[../drafts/2014-05-28-just-to-write-down-some-thoughts.md|2014-05-28-just-to-write-down-some-thoughts.md]] 11-Nov-2015 14:49 7610
+* [[../drafts/2015_11_11-after-tutorial-notes-Simon.md|2015_11_11-after-tutorial-notes-Simon.md]] 23-Mar-2016 11:01 1633
+* [[../drafts/2016_01_11_january.md|2016_01_11_january.md]] 23-Mar-2016 11:01 1944
+* [[../drafts/2016_01_21_RW-RS-typographic-hallucinations--discourse-networks.html|2016_01_21_RW-RS-typographic-hallucinations--di..&gt;]] 23-Mar-2016 11:01 9973
+* [[../drafts/2016_01_21_RW-RS-typographic-hallucinations--discourse-networks.md|2016_01_21_RW-RS-typographic-hallucinations--di..&gt;]] 23-Mar-2016 11:01 25762
+* [[../drafts/2016_01_21_RW-RS-typographic-hallucinations--discourse-networks.wiki|2016_01_21_RW-RS-typographic-hallucinations--di..&gt;]] 23-Mar-2016 11:01 28226
+* [[../drafts/2016_01_26_degrees_of_fuzziness_in_narration.md|2016_01_26_degrees_of_fuzziness_in_narration.md]] 23-Mar-2016 11:01 3021
+* [[../drafts/2016_02_03_TP3-intro-report.md|2016_02_03_TP3-intro-report.md]] 23-Mar-2016 11:01 1488
+* [[../drafts/2016_02_03_TP3-intro-report.wiki|2016_02_03_TP3-intro-report.wiki]] 23-Mar-2016 11:01 1494
+* [[../drafts/2016_02_07_outro-for-intro-film.md|2016_02_07_outro-for-intro-film.md]] 23-Mar-2016 11:01 8163
+* [[../drafts/2016_02_14_software-as-a-critique-at-LAG.md|2016_02_14_software-as-a-critique-at-LAG.md]] 23-Mar-2016 11:01 5755
+* [[../drafts/2016_02_15_tutorial-notes.md|2016_02_15_tutorial-notes.md]] 23-Mar-2016 11:01 595
+* [[../drafts/2016_03_04-blackbxing-and-relative-units.md|2016_03_04-blackbxing-and-relative-units.md]] 23-Mar-2016 11:01 2169
+* [[../drafts/2016_03_07_Monday-notes.md|2016_03_07_Monday-notes.md]] 23-Mar-2016 11:01 1489
+* [[../drafts/2016_03_20-combinations.md|2016_03_20-combinations.md]] 23-Mar-2016 11:01 1991
+* [[../drafts/2016_03_23_RW-RS-scrolling-essay.md|2016_03_23_RW-RS-scrolling-essay.md]] 04-Apr-2016 16:41 5641
+* [[../drafts/2016_03_23_RW-RS-scrolling-essay.wiki|2016_03_23_RW-RS-scrolling-essay.wiki]] 04-Apr-2016 16:41 3526
+* [[../drafts/2016_04_01-localStorage.md|2016_04_01-localStorage.md]] 04-Apr-2016 16:41 2467
+* [[../drafts/2016_04_05-trim2-assessment.html|2016_04_05-trim2-assessment.html]] 04-Apr-2016 16:41 3835
+* [[../drafts/2016_04_05-trim2-assessment.md|2016_04_05-trim2-assessment.md]] 04-Apr-2016 16:41 3625
+* [[../drafts/2016_04_05-trim2-assessment.wiki|2016_04_05-trim2-assessment.wiki]] 04-Apr-2016 16:41 3275
+* [[../drafts/Continuation-on-dependencies.md|Continuation-on-dependencies.md]] 11-Nov-2015 14:49 3276
+* [[../drafts/I_m-scared.md|I_m-scared.md]] 11-Nov-2015 14:49 1640
+* [[../drafts/L-a-a-d-writing-plan.md|L-a-a-d-writing-plan.md]] 23-Mar-2016 11:01 4519
+* [[../drafts/README.md|README.md]] 11-Nov-2015 14:49 44
+* [[../drafts/TP3-intro-report.md|TP3-intro-report.md]] 23-Mar-2016 11:01 1473
+* [[../drafts/dependencies.html|dependencies.html]] 11-Nov-2015 14:49 3253
+* [[../drafts/douglas-coupland-review.md|douglas-coupland-review.md]] 11-Nov-2015 14:49 1972
+* [[../drafts/january.md|january.md]] 23-Mar-2016 11:01 1029
+* [[../drafts/laad-writing-plan.wiki|laad-writing-plan.wiki]] 11-Nov-2015 14:49 2995
+* [[../drafts/pre-master-assumptions.md|pre-master-assumptions.md]] 11-Nov-2015 14:49 2589
+* [[../drafts/project-draft.md|project-draft.md]] 11-Nov-2015 14:49 6982
+* [[../drafts/project-proposal.wiki|project-proposal.wiki]] 11-Nov-2015 14:49 6801
+* [[../drafts/relearn%20blog%20post.md|relearn blog post.md]] 11-Nov-2015 14:49 954
+
+
+</div>

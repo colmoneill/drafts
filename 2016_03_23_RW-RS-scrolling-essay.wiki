@@ -19,27 +19,35 @@ Scrolling on screens is an action that can be directly matched up to progress po
 * fax paper metaphor
 * binge scrolling &amp; distances covered
 * parallax trends
+* tactile / scroll wheels
 
 == introduction ==
 
-It was a small sentence, in a casual conversation on a lazy weekend afternoon in the studio, after a statement of not really having accomplished much on that day yet, except maybe scrolling a few miles before getting out of the house. I'd never thought of it that way, scrolling, in terms of distance. Nor had I really spent any time thinking about it, it's so ubiquitous, scrolling. You know, that thing you do with your thumb, or your index, on that screen. Like the tire on a car, or the shoe on the foot, the point that touches the thing that makes the other bit move.
+Just a small sentence, in a casual conversation on a lazy weekend afternoon in the studio, after a claim of not really having accomplished much on that day yet, except maybe scrolling a few miles before getting out of the house. I'd never thought of it that way, scrolling, in terms of distance. Nor had I really spent any time thinking about it at all, it's so ubiquitous, scrolling. You know, that thing you do with your thumb, or your index, on that screen. Like the tire on a car, or the shoe on the foot, the point that touches the thing that makes the other bit move. Or is it the other way around?
 
 A scroll is a roll of parchment, papyrus, or paper, which has been drawn or written upon.[1] The noun ''scrolling'' means the continuous movement of text or images on a display screen in either a horizontal or vertical direction. We tend to take the exploratory nature of the scrolling action for granted, a lot of web page design depends on the user being willing to move their viewport up and down the sequence of information.
 
-But what are the metrics of this space? Are their any? Do they depend on the screen you're using? According to what parameters do we change the sizes of the scrollable areas? Is it problematic that we may not all see the information the same way? We're leaning towards a computer world where touch interactions are as important as mouse and keyboard ones. What is their to be said about scrolling?
+'''But what are the metrics of this space?''' Are their any? Do they depend on the screen you're using? According to what parameters do we change the sizes of the scrollable areas? Is it problematic that we may not all see the information the same way? We're leaning towards a computer world where touch interactions are as important as mouse and keyboard ones. In what measures is scrolling necessary to consider?
 
 == the illusion ==
 
-Let's start off with reminding ouselves that this is in quite some ways, an illusion. We're now discussing an interaction method, thought up to solve a spacial issue. The one of more content than physical space. It's not a new issue, and the word remind us of this, rolling up a long piece of text to make the partial and logical reading action easy is a good way of dealing with a spacial constraint. But is this what is happening in my browser when I read along an article? Am I alone in wondering what happens to the videos or gif loops I opened up in my twitter feed, then moved along? Do they play for eternety?
+Let's begin with reminding ourselves that this is in quite some ways, an illusion. We're now discussing an interaction method, thought up to solve a spacial issue. The one of more content than physical space. It's not a new issue, the word remind us of this, rolling up a long piece of text to make the partial and logical reading action easy is a good way of dealing with a spacial constraint. But is this what is happening in my browser when I read along an article? Am I alone in wondering what happens to the videos or gif loops I opened up in my twitter feed, then moved along? Do they play for eternety?
 
-Today, the workings of scrolling are well established, but in the period of time when computers were developping to we now know
+Today, the workings of scrolling are well established, but it can't have always been so. Computers have not always been these well able, fast processing, graphics machines. This act of panning has the prerequisite of content being loaded for it to be available. Computing speeds, graphics speeds and networking speeds are all dependencies for this to perform. As all these areas have developed to them feeling ''snappy'' enough for us to forget them as individuals. The consequence of these specifics getting out of our ways, other practices have developped: the types of content we now view and share are different, the resolution of the medias themselves, their overall availability. We're pointing to the fact that if scrolling is now a common nameable action, it has also followed a development. It's progress is still ongoing, and it's practice is now being bent.
 
-It is therefor possible to think of scrolling in a narrative sense
+We outlined that initially this interaction comes to solve a spacial issue. On screens, when content and space argue, designers come up with solutions. The last decade has seen handfuls of newly named disciplines appear in the web industry, jobs that deal with these types of issues specifically; interaction designers, user experience designers, web designers, wire framing, experience managers all kinds of strategies in place for choosing an appropriate method for visual online communications.
 
-The idea that such a space might deserve to be measured has different levels of legibility. We have established how scrolling as an action has become easier, technically, but what about the content that the action enables. Is there a relationship between the quantity of available scrollable real estate and the quality of the content under your thumb? This remark is unlightly to be a result of the development of the scroll, but we can at least say that as content becomes more plentiful online, it's interesting that scrolling is available to interface the quantities.
+It is therefor possible to think of scrolling in a narrative sense. The new web disciplines might not use that word very often, but designing communication connects quite easily to story telling. Hundreds of examples now show us the combinations of space, content and story. Remarkable that our systems are performing so well for us that we have gone far beyond the starting constraints of scrolling. We're now adding space for content to be segmented. Quite the turn around.
+
+The literature and thinkings about usage of space and rhythm in design is available, and as a descendant of the discipline, I will not argue them as functional aspects. However conceptually, making one see more (do more) to get a clearer story, is a little counter intuitive.
+
+The idea that such a space might deserve to be measured has different levels of legibility. We have established how scrolling as an action has become easier, technically, but what about the content that the action enables. Is there a relationship between the quantity of available scrollable real estate and the quality of the content under your thumb or cursor? This remark is unlightly to be a result of the development of the scroll, but we can at least say that as content becomes more plentiful online, it's interesting that scrolling is available to interface the quantities. Maybe in this case, more is just more, and that is that.
+
+== touch screens ==
 
 === links ===
 
 * ''[https://youtu.be/Etyt4osHgX0?t=16m11s &quot;how do I scroll through my list of artists?&quot;]''
 
 claiming a metric
+
