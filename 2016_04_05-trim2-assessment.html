@@ -1,5 +1,8 @@
+<!DOCTYPE html>
+
 <html>
   <head>
+  <meta charset="utf-8">
     <style>
       html{
         font-family: monospace;
@@ -23,6 +26,13 @@
         float: left;
         clear: both;
       }
+      h1, h2, h3, h4, h5{
+        width: 100%;
+        float: left;
+      }
+      h1{
+        font-size: 36px;
+      }
       p{
         float: left;
       }
@@ -41,6 +51,17 @@
         border-bottom: 1px solid grey;
         outline: solid 1px black;
       }
+      img.research-plan1{
+        width: 40%;
+        float: left;
+        border: 1px dotted black;
+        margin-bottom: 40px;
+      }
+      img.research-plan2{
+        width: 120%;
+        float: left;
+        border: 1px dotted black;
+      }
       a{
         text-decoration: none;
         color: black;
@@ -55,8 +76,10 @@
       <h1 id="trim-2-assessment">trim 2 assessment</h1>
       <p>Tuesday 5th April 2016 -- 14:00</p>
       <h3 id="connecting-previous-assessment">connecting previous assessment</h3>
-      <p><a href="http://pzwart1.wdka.hro.nl/~colm/trimester-1_assessment/">link to trim 1</a></p>
-      <p>Slowly moving towards a broader consideration of interface and black boxing. Was the clarity I was calling for just a result of logical development following a method of boxing     tools &amp; utilities up? Are these boxes in a chain sequence or is it more organic? Where do I, the user, stand in this sequence?</p>
+      <p><a href="http://pzwart1.wdka.hro.nl/~colm/trimester-1_assessment/">link to trim 1 assessment presentation</a></p>
+      <p>Slowly moving towards a broader consideration of interface and black boxing. Was the clarity I was calling for just a result of logical development following a method of boxing tools &amp; utilities up? Are these boxes in a chain sequence or is it more organic? Where do I, the user, stand in this sequence?</p>
+      <img class="research-plan1" src="researchingplan3-2.svg">
+      <img class="research-plan2" src="researchingplan3-1.svg">
       <p>The 'necessity' for such a system is clear, I'm glad one does not have to run each intricate item and dependency when executing a task. This model is not flawed or even really    broken in any way. I'm looking at a logical consequence of this modeling: it's <em>opaqueness</em>. (Looping back to this seems terribly logical. It is suddenly quite a simple   point to  be looking at my research from, but anyway.)</p>
       <p>I'm putting aside the moralistic and fearful opinions I have voiced between the start of the year and now, in order to concentrate on projects that might generate discussion /    opinions for the audience it self.</p>
       <p>In attempting to answer the question around the structure or sequence of the black boxes scheme, I collected a few examples of attempts of visualisations:</p>
@@ -84,26 +107,34 @@
 
     <h3 id="temporary-conclusion">Temporary conclusion:</h3>
     <p>I understand why these technologies are boxed up, and why these boxes must exist. I am fine with them, but understanding their sequence, and where I stand in their chain could be valuable.</p>
-    <p>So I started to look at the spaces between the boxes. Leverage points. Friction points, where it might be possible to insert objects (prototypes) in order to reveal the   structure.</p>
+    <p><em><b>So I started to look at the spaces between the boxes. Leverage points. Friction points, where it might be possible to insert objects (prototypes) in order to reveal the structure.</b></em></p>
     <h3 id="prototypes">Prototypes:</h3>
     <ul>
-      <li>tips by tools: a bit old now, but still something I want to finish off. I attempted some javascript prototypes but not very promising with my skills at the moment. So I designed  what I imagined the item to be, and I also have a CSS only proof of concept. Modes of address in interface.</li>
-      <li>plug-ins / add-ons 'stylish' redesigns</li>
-      <li>greasemonkey</li>
+      <li><a href="http://pzwart1.wdka.hro.nl/~colm/prototypes/tips-by-tools/">tips by tools:</a> a bit old an idea now, but still something I want to finish off. I attempted some javascript prototypes but not very promising with my skills at the moment. So I designed  what I imagined the item to be, and I also have a CSS only proof of concept. Modes of address in interface.</li>
+      <li><a href="http://pzwart1.wdka.hro.nl/~colm/prototypes/cross-publish/">cross publishing</a></li>
+      <ul>
+        <li>writing text in Markdown</li>
+        <li>run a publishing script</li>
+        <li>places text on a wiki page, pzwart1/~colm/, and a repo backup</li>
+      </ul>
+      <li>plug-ins / add-ons <a href="https://userstyles.org/styles/107022/clean-wiki-splitted">'stylish'</a> redesigns</li>
+      <li><a href="http://wiki.greasespot.net/Main_Page">greasemonkey</a></li>
+      <li><a href="http://pzwart1.wdka.hro.nl/~colm/prototypes/scrollometer/">Scroll-o-meter</a></li>
+      <ul>
+        <h4><a href="http://pzwart1.wdka.hro.nl/~colm/prototypes/scrollometer/">Scroll-o-meter homepage!</a></h4>
+        <li>scroll meter</li>
+        <li>the starting point</li>
+        <li>an excuse to learn js</li>
+        <li>non critical</li>
+        <li>question of the metrics, working out the metrics</li>
+        <li><a href="https://pzwiki.wdka.nl/mediadesign/User:Colm/RW%26RS-scrolling-essay">An essay. RW & RM</a></li>
+        <li>a bit of the physical world on screens</li>
+        <li>relative units — relative inches</li>
+        <li>protoype homepage</li>
+        <li>plug-in method ?</li>
+      </ul>
     </ul>
-    <hr>
-    <ul>
-      <h4><a href="../prototypes/scrollometer/">Scroll-o-meter homepage!</a></h4>
-      <li>scroll meter</li>
-      <li>the starting point</li>
-      <li>an excuse to learn js</li>
-      <li>non critical</li>
-      <li>question of the metrics, working out the metrics</li>
-      <li>a bit of the physical world on screens</li>
-      <li>relative units — relative inches</li>
-      <li>protoype homepage</li>
-      <li>plug-in method ?</li>
-    </ul>
+
     <h3 id="prototype-ideas">prototype ideas</h3>
     <ul>
       <li>visible traceroute, claim how complicated your page is!</li>
