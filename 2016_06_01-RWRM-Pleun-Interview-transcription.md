@@ -37,24 +37,38 @@ A society of control is different to that, because it's way more of a flowing th
 
 ** CO : ** *The area on the ground that you think the camera, that you expect the camera to be capturing?*
 
-** PG : ** Yes, then I want to place myself in that square, with a set of rules, which I'm still defining but I'm thinking that I need to exhaust myself in a way that given a certain amount of hours, I would not be able any longer. And then the
+** PG : ** Yes, then I want to place myself in that square, with a set of rules, which I'm still defining but I'm thinking that I need to exhaust myself in a way that given a certain amount of hours, I would not be able to do it any longer. And set myself in a physical and mental mindset, to test the structure that is already there, to see if anybody is watching, and if I'll be taken away from the camera.
 
-** CO : ** **
+** CO : ** *So I want to ask you about all the parameters, you mentioned safe or secure areas, which is interesting, you also mentioned earlier some other parameters of where you would chose to do it, and then maybe we can go into how constraining, how strict your rules are going to be?*
 
-** PG : **
+** PG : ** I did do one step before when the project still really was about me, the conversation I was having with myself, about breaking certain laws, where I put myself in an environment that was as empty as possible. I put myself in this white space, nothing on the floor, walls, no distractions, there was a camera there, and then I stood in the center of the room, taped a square around my feet, like a quite tight one, and stood there for a half hour, without knowing how the time was passing, or how much had passed.
 
-** CO : ** **
+With that I wanted to see how my body and mind would react to that situation. But there, by putting the camera in there myself, there is still something in the project that doesn't click, that doesn't fit. I still was still in control of all parameters. So by giving some control away to what I believe to be the *society of control*. One of the most visible things of the society of control, in the city, are those cameras. Placing myself in front of those, while keeping the rules of standing there, I have to be as still as possible, no scratching, no walking, no talking, all these strict rules, I feel that I might be capturing both societies while testing them both as well.
 
-** PG : **
+** CO : ** *So if I try and ask again in a different way; the rules that you will set for yourself in this space, will not always be the same, according to the space. Is that right?*
 
+** PG : ** That's exactly where some of my biggest questions are, I'm still really doubting if I want to do this action where I make the stage my own. Then, really simple things like not only taping out the square where the camera films, but maybe then also coloring it in with tape. Or physically making it my own by turning it into my living room or something silly like this. Or keep with what I have done before about testing my own body and mind with the strict rules. There test to see if they remove me, or that I fall over first. So between those two, I'm still in the dark, like what is more true to the project.
 
+** CO : ** *So your ideas range at the moments of the rules, therefor the actions, or actually non actions, like the happenings maybe, during these sessions, go from quite outwards looking and aesthetic, to inwards looking and quiet from what you were saying, with the tape then things that would only involve you and your head. So do you know yet what else you're doing to make these new experiments different to the previous one?*
 
+** PG : ** You can always make rules around *what happens if*, I guess in a way this is more used in practices like theater or other perfomance arts, where you don't only have rules about you do do, but also a set of reactionary rules, if this happens then, if that happens then react that way. And that requires more testing. But most things you can catch with that, at least enough in a way that it can work. Or you can make work in a way that you don't forsee, but you catch.
 
+** CO : ** *Because you'll have to be reactionary if someone comes up, you'll have to react somehow.*
 
+** PG : ** Also what I think is interesting here also, is that I usually think of the public in the sense of who is going to see my work but here it is quite direct, my main public is going to be the police which is something I really like, but also really a thinking point. And all this aspect of deciding wether or not I communicate with my public or not. I imagine that they are sitting in a room with all these little camera views, so am I performing this in one space, or can I leave little messages around the city that they then can see something happening when they combine these images. This is a separate group of questions, but they are relevant. Also time is something I can play with, which I am also thinking of.
 
+** CO : ** *In regards to the question of who is it for, and how you communicate this, have you thought of how you want to capture how these experiments are happening? Because you're not sure you're going to be able to get the actual CCTV footage.*
 
+** PG : ** The ideal situation is where I get the footage, I also really want to see how they transform it. These rules say that I should be able to ask footage back, when I'm on it myself. But the people that are around me and walk by, etc, that are probably going to cross the square I'm in, because it's public space, they can't be visible on the footage, so that would be interesting to see what that looks like. This is something I would not want to nor could even recreate. So ideally I would get the footage of that and then show it via this eye from above, from the camera. That is the preferred perspective.
 
+But I also need to be kind of smart, I would have to capture it myself as well, which is also kind of nice, because then, you can see the the square I am taping out, better. Maybe from more of a public perspective. Because they are the two perspectives, the public and the police.
 
-** CO : **
+** CO : ** *But indeed also as a backup for the project?*
 
-** PG : **
+** PG : ** Yes, because as we were saying I already was able to ask a police officer, but he basically said that I'll never get it, no way, practically speaking.
+
+** CO : ** *And then here a part of the project that we haven't yet spoken about, the challenge that you're issuing, in a discrete manor, or subtle manor.*
+
+** PG : ** I need to investigate more and ask more direct questions, but I fear that then I just become 'that girl with art project'. So I might be a bit too doubtful about that part. But then I plan a strategy to go around this.
+
+** CO : ** *Nice. We've gone overtime of course. But thanks*
