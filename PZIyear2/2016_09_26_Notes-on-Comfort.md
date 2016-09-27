@@ -21,3 +21,7 @@ Ok quick formulation of questions:
 It's comfortable to go to one and only one place to install new apps on your device. It's not comfortable to have to manually compile a source package. One is extremely easy, the other is not. Meanwhile, the first does everything for you, the second needs you to make decisions and understand what is happening for the operation to succeed. What is the relation between ease and knowledge, and what are it's costs ?
 
 Is there a triangle or a Venn diagram that can represent the impossible three (?) of Software comforts, software knowledge and service understanding?
+
+I have not, at this point, finished my text on detailing my position, but in short, as I have progressed from software learner to software practitionner, I have also progressed from software user to software distributor. The points that make on go from learner to practionner are various degrees of mastery. I do not intend to call myself a master of anything, but within all the operations that a piece of software kit offers, some of them can be mastered. Similarly, the points that make one progress from software user to software distributor are ones of service.
+
+Tying together relative mastery and service is the notion of craftsmanship.
