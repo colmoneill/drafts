@@ -22,6 +22,6 @@ It's comfortable to go to one and only one place to install new apps on your dev
 
 Is there a triangle or a Venn diagram that can represent the impossible three (?) of Software comforts, software knowledge and service understanding?
 
-I have not, at this point, finished my text on detailing my position, but in short, as I have progressed from software learner to software practitionner, I have also progressed from software user to software distributor. The points that make on go from learner to practionner are various degrees of mastery. I do not intend to call myself a master of anything, but within all the operations that a piece of software kit offers, some of them can be mastered. Similarly, the points that make one progress from software user to software distributor are ones of service.
+I have not, at this point, finished my text on detailing my position, but in short, as I have progressed from software learner to software practitionner, I have also progressed from software user to software distributor. The points that make one go from learner to practionner are various degrees of mastery. I do not intend to call myself a master of anything, but within all the operations that a piece of software kit offers, some of them can be mastered. Similarly, the points that make one progress from software user to software distributor are ones of service.
 
 Tying together relative mastery and service is the notion of craftsmanship.
