@@ -19,3 +19,5 @@ Ok quick formulation of questions:
 * a certain amount of basic computer interactions seem to have spread across all types of operating systems, distributions and brands. For example, nobody seems to be wanting to be get rid of clicking or scrolling. Are there other interactions that are or have become specific to individual platforms ? Why can these not be cross platform ?
 
 It's comfortable to go to one and only one place to install new apps on your device. It's not comfortable to have to manually compile a source package. One is extremely easy, the other is not. Meanwhile, the first does everything for you, the second needs you to make decisions and understand what is happening for the operation to succeed. What is the relation between ease and knowledge, and what are it's costs ?
+
+Is there a triangle or a Venn diagram that can represent the impossible three (?) of Software comforts, software knowledge and service understanding?
