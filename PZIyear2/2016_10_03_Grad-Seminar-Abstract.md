@@ -1,5 +1,5 @@
 # Opacity 0 to 100
-* 300 word abstract presenting what your work is
+## 300 word abstract presenting what your work is
 
 <blockquote>
 *Technology is typically seen as a problem-solver, and well-designed technology is supposed to follow an according aesthetic of efficiency, ease and—ultimately—automation.*
@@ -17,11 +17,11 @@ This hopefully factual dual log will be a basis for the secondary aim, which wil
 *If we abandon the notion that any one design will completely or even adequately address our social concerns or resolve our social issues, then adverserial design can provide those spaced of confrontation—in the form of products, services, events and precesses— through which political concerns and issues can [be] expressed and engaged.*
 </blockquote>
 
-* small presentation that prototypes how are you going to present your work, what will become the project proposal
 * 3 works inspiring / central to your work and
+  * Autonomy Cube — Trevor Paglen
   *
-  *
+  * 
 * 3 texts
   * to save everything click here — Evgeny Morozov
   * Richard Sennett — The Craftsman
-  *
+  * Terry Winograd & Fernando Flores — Understanding Computers and Cognition
