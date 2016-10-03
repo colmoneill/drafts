@@ -21,6 +21,7 @@ This hopefully factual dual log will be a basis for the secondary aim, which wil
   * Autonomy Cube — Trevor Paglen
   *
   *
+  
 ## 3 texts
   * to save everything click here — Evgeny Morozov
   * Richard Sennett — The Craftsman
