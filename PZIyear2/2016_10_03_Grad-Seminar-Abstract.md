@@ -17,11 +17,11 @@ This hopefully factual dual log will be a basis for the secondary aim, which wil
 *If we abandon the notion that any one design will completely or even adequately address our social concerns or resolve our social issues, then adverserial design can provide those spaced of confrontation—in the form of products, services, events and precesses— through which political concerns and issues can [be] expressed and engaged.*
 </blockquote>
 
-* 3 works inspiring / central to your work and
+## 3 works inspiring / central to your work and
   * Autonomy Cube — Trevor Paglen
   *
-  * 
-* 3 texts
+  *
+## 3 texts
   * to save everything click here — Evgeny Morozov
   * Richard Sennett — The Craftsman
   * Terry Winograd & Fernando Flores — Understanding Computers and Cognition
