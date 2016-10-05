@@ -21,11 +21,15 @@ I answered these two questions with a secondary text that states my position wit
 
 ## Thesis Intention
 The intention of the thesis will be to look at the notion of comfort within software environments. Software is one of the most common mediums for technology today.
-
 <blockquote>
 *Technology is typically seen as a problem-solver, and well-designed technology is supposed to follow an according aesthetic of efficiency, ease and—ultimately—automation.*
 </blockquote>
 <small>To Save Everything, Click Here — Evgeny Morozov, ch 9</small>
+An outline of what problems software technologies are attempting to solve will be made as a starting point, a list of examples, to use as themes and specifics.
+Secondarely, the thesis will aim to lace together an intution that I have that certain comfort strategies are put in place, and reused by software vendors to teach their users into a specific vendor method, rather than consider their technology to be part of a broader cultural practice, and therefor plan the working of their tools to work along with standards and interchangable knowledge.
+This will allow for chapters that will speak about interface language, modes of address, service prodiding, the shift from programs to apps, the conseqences of 'intuitive' interfaces, as well as looking at the issues with productivity, efficency.
+Finally, the thesis should and will be a place for me to suggest solutions, in a theoretical realm of writing first, but hopefully leading to the graduation project.
+For this, the notions of Adverserial Design (Carl DiSalvo) will be the first part to explore. The examples set out by DiSalvo of adverserial design in industrial design will be extrapolated.
 
 
 ## References
