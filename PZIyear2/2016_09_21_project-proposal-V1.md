@@ -34,14 +34,14 @@ For this, the notions of Adverserial Design (Carl DiSalvo) will be the first par
 
 ## References
 initial first fast list:
-+ to save everything click here — Evgeny Morozov
-+ Richard Sennett — The Craftsman
-+ Terry Winograd & Fernando Flores — Understanding Computers and Cognition
-+ Adverserial Design - Carl DiSalvo
-+ Karen Barad — Meeting the universe Halfway
++ to save everything click here — Evgeny Morozov<br>
++ Richard Sennett — The Craftsman<br>
++ Terry Winograd & Fernando Flores — Understanding Computers and Cognition<br>
++ Adverserial Design - Carl DiSalvo<br>
++ Karen Barad — Meeting the universe Halfwayw<br>
 
 video list, modes of address examples:
-* [Sebastian Deterding — What your designs say about you ](http://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you)
-* [Dr TJ McIntyre — Legal Questions in the Digital World](https://www.youtube.com/watch?v=nlKJ4FVWUOM)
+* [Sebastian Deterding — What your designs say about you ](http://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you)<br>
+* [Dr TJ McIntyre — Legal Questions in the Digital World](https://www.youtube.com/watch?v=nlKJ4FVWUOM)<br>
 
 </div>
