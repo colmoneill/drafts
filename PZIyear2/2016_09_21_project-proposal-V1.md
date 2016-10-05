@@ -23,11 +23,11 @@ I answered these two questions with a secondary text that states my position wit
 
 ## References
 initial first fast list:
-* to save everything click here — Evgeny Morozov
-* Richard Sennett — The Craftsman
-* Terry Winograd & Fernando Flores — Understanding Computers and Cognition
-* Adverserial Design - Carl DiSalvo
-* Karen Barad — Meeting the universe Halfway
++ to save everything click here — Evgeny Morozov
++ Richard Sennett — The Craftsman
++ Terry Winograd & Fernando Flores — Understanding Computers and Cognition
++ Adverserial Design - Carl DiSalvo
++ Karen Barad — Meeting the universe Halfway
 
 video list, modes of address examples:
 * [Sebastian Deterding — What your designs say about you ](http://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you)
