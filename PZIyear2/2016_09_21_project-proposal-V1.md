@@ -1,3 +1,5 @@
+<div style="width: 45%;">
+
 ## What are you working on now?
 Static site generator systems, cross publishing scripts, gathering reference texts for thesis writing, and developing notions of adverserial design.
 
@@ -15,10 +17,15 @@ Secondarely, I still believe that the points I will be arguing for are in the be
 After some work, I will need readers and listeners, of course. I will also try and get as varied a group of readers involved in giving me feedback. I do mean these themes to address everyday computer users, whether they identify as those or not. Family and friends, outside of the school network will be called upon.
 
 ## Relation to previous practice & Relation to a larger context
-I answered these two questions with a secondary text that states my position within these research topics, called [Position](2016-09_21_Position.md).
+I answered these two questions with a secondary text that states my position within these research topics, called [Position](https://github.com/colmoneill/drafts/blob/master/PZIyear2/2016_09_21_Position.md).
 
 ## Thesis Intention
+The intention of the thesis will be to look at the notion of comfort within software environments. Software is one of the most common mediums for technology today.
 
+<blockquote>
+*Technology is typically seen as a problem-solver, and well-designed technology is supposed to follow an according aesthetic of efficiency, ease and—ultimately—automation.*
+</blockquote>
+<small>To Save Everything, Click Here — Evgeny Morozov, ch 9</small>
 
 
 ## References
@@ -32,4 +39,5 @@ initial first fast list:
 video list, modes of address examples:
 * [Sebastian Deterding — What your designs say about you ](http://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you)
 * [Dr TJ McIntyre — Legal Questions in the Digital World](https://www.youtube.com/watch?v=nlKJ4FVWUOM)
+
 </div>
