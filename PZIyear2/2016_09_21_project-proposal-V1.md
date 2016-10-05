@@ -1,3 +1,5 @@
+<div style="width:45%;">
+
 What are you working on now?
 ----------------------------
 Static site generator systems, cross publishing scripts, gathering reference texts for thesis writing, and developing notions of adverserial design.
@@ -40,3 +42,4 @@ initial first fast list:
 video list, modes of address examples:
 * [Sebastian Deterding — What your designs say about you ](http://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you)
 * [Dr TJ McIntyre — Legal Questions in the Digital World](https://www.youtube.com/watch?v=nlKJ4FVWUOM)
+</div>
