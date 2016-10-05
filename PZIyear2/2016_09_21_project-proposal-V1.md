@@ -19,22 +19,24 @@ Who can help you and how?
 -------------------------
 After some work, I will need readers and listeners, of course. I will also try and get as varied a group of readers involved in giving me feedback. I do mean these themes to address everyday computer users, whether they identify as those or not. Family and friends, outside of the school network will be called upon.
 
-Relation to previous practice
------------------------------
-OSP workshops, text on position,
-
-Relation to a larger context
+Relation to previous practice & Relation to a larger context
 ----------------------------
-text on position
+I answered these two questions with a secondary text that states my position within these research topics, called [Position](2016-09_21_Position.md).
 
 Thesis Intention
 ----------------
 
 
+
 References
 ----------
 initial first fast list:
-* [Sebastian Deterding's talk](http://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you)
 * to save everything click here — Evgeny Morozov
 * Richard Sennett — The Craftsman
 * Terry Winograd & Fernando Flores — Understanding Computers and Cognition
+* Adverserial Design - Carl DiSalvo
+* Karen Barad — Meeting the universe Halfway
+
+video list, modes of address examples:
+* [Sebastian Deterding — What your designs say about you ](http://www.ted.com/talks/sebastian_deterding_what_your_designs_say_about_you)
+* [Dr TJ McIntyre — Legal Questions in the Digital World](https://www.youtube.com/watch?v=nlKJ4FVWUOM)
