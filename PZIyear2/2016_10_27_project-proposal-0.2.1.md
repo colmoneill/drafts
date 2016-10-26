@@ -10,7 +10,7 @@
 * Verran et al — Designing digital knowledge management tools with Aboriginal Australians
 
 ## project one liner:
-What does it look like when I load internet pages?
+What does it look like when I load internet pages? Or the hodology of internet loading.
 
 ## project description:
 The internet's initial protocals were all designed in the interests of communications. Each procedure seems to have sevoural sub processes, to ensure connection, reception, and integrity of the transfer. These procedures are all handled by the network and the software clients that serve the user. Meanwhile they all translate to actions or signals that happen on machines, physical machines located around the world.
