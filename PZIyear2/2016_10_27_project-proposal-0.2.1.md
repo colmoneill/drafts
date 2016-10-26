@@ -1,5 +1,5 @@
-#### project proposal v0.2.1
 # project name: exposure, how it's done online
+#### project proposal v0.2.1
 
 ## projects / texts that inspire this work:
 * http://zerogeography.net/ && https://play.google.com/store/apps/details?id=com.oii.android_geo
