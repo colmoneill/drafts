@@ -9,6 +9,7 @@ The notion of contributive economies hails as an opposition to what a consumeris
 Agonism is defined as
 
 > a political theory that emphasizes the potentially positive aspects of certain (but not all) forms of political conflict. It accepts a permanent place for such conflict, but seeks to show how we might accept and channel this positively.
+
 What are the links between contributive economies and agonism? Are they separate thoughts or are they collaborative? Should agonism be brought to contributive economies? Do we need agonistic perspectives or does the theoretical model that supports contributive economies cover all of the aspects? A contributive economy is opposed to capitalistic economies, each being at their respective side for this agonism to remain balanced, but what other social and or cultural matter do each of these models produce aside from their economies? What are their values and where do those values come from?
 
 The initial notions from the first paragraphs will all be explained in individual chapters to lay the ground for the thesis. Later, the questions posed above will come into focus, as I will attempt to look at the inputs and outputs of the two economical models. For this, the example of software will be a (the?) focus point. Digital technology has the necessary componentry to be able to inspect the models individually with examples that speak loudly to the secondary productions that I wonder about above.
