@@ -1,7 +1,7 @@
 ## Thesis outline
-##### standing outline for Thesis Graduate Seminar deadline 2016_11_09 after 10 am meeting.
+##### standing outline for Thesis Graduate Seminar deadline 2016_11_09 after 10am meeting with Marloes.
 
-Central research question: How do visual production software technologies transfer knowledge and skills of the craft they virtualise?
+Central research question: How do visual production software technologies transfer the knowledge and skills of the craft they virtualise?
 
 <blockquote>
 *Technology is typically seen as a problem-solver, and well-designed technology **is supposed to follow an according aesthetic of efficiency**, ease and—ultimately—automation.*
@@ -15,26 +15,26 @@ Central research question: How do visual production software technologies transf
 * Physical tangible actions are what visual production software virtualises.
 
 # Chapter 1:
-Temp title: Defining craft
+Temp title: *Defining craft*
 
 What is modern digital craft? Is it the same as old crafts with different tools and different outcomes? Is it still cultural production?
 
 tangible material, virtual material, manpulation techniques, expertise, experts, professionnals, tools, manual tools, virtual tools, progression of craft
 
 # Chapter 2:
-Temp title: Efficiency
+Temp title: *Efficiency*
 
-Can we say that a well-designed technology is one that is efficient and easy? What is the criterium for well-designed visual production software? Outside of visual production software, we can say that virtualisation of certain processes has made them more efficient, is this also true for digital visual production?
+Can we say that a well-designed technology is one that is efficient and easy? What is the criterium for well-designed visual production software? Outside of visual production software, we can say that virtualisation of certain processes has made them more efficient, is this also true for digital visual production? What is the cost of this efficiency?
 
 # Chapter 3:
-Temp title: The user
+Temp title: *The user* http://contemporary-home-computing.org/art-and-tech/not/
 
 Is the visual production software user automatically a craftsman? Do all users mean to attain craft, or is the software designed for a broader set of users?
 
 the doer, the producer, the craftsman, the professional, specialisations, comforts
 
 # Chapter 4:
-Temp title: multiple interfaces
+Temp title: *multiple interfaces*
 
 In the movement enabling larger sets of users to produce visuals digitally, what happens when the software is declined to function on other types of interfaces and devices? Firstly tablets and phones, but also web apps.
 
