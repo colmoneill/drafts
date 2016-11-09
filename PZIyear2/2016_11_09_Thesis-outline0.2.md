@@ -40,7 +40,7 @@ In the movement enabling larger sets of users to produce visuals digitally, what
 
 coming full circle, Apple Pencil, Adobe rulers, even the place where the computer tool runs becomes blurry. The cloud. Solutions to file handeling.
 
-
+---
 
 My intention is to provide context to better understand certain contemporary movement in digital services that seem to focus on efficiency. This risks the further diminishing the cultural relevance and importance of digital practices and crafts, blurring all the lines between service and production.
 
