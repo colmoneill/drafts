@@ -63,7 +63,7 @@ My intention is to provide context to better understand certain contemporary mov
 
 
 
-## Key texts
+# Key texts
 * to save everything click here — Evgeny Morozov<br>
 * La société automatique: Tome 1, L'avenir du travail — Bernard Stiegler
 * Adverserial Design - Carl DiSalvo<br>
