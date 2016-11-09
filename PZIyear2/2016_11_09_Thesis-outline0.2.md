@@ -38,13 +38,28 @@ Temp title: multiple interfaces
 
 In the movement enabling larger sets of users to produce visuals digitally, what happens when the software is declined to function on other types of interfaces and devices? Firstly tablets and phones, but also web apps.
 
+Comment on this quote:
+
+<!--
+> in every user interface study we’ve ever done […], [we found] it’s pretty easy to learn how to use these things ‘til you hit the file system and then the learning curve goes vertical. So you ask yourself, why is the file system the face of the OS? Wouldn’t it be better if there was a better way to find stuff?
+
+> Now, e-mail, there’s always been a better way to find stuff. You don’t keep your e-mail on your file system, right? The app manages it. And that was the breakthrough, as an example, in iTunes. You don’t keep your music in the file system, that would be crazy. You keep it in this app that knows about music and knows how to find things in lots of different ways. Same with photos: we’ve got an app that knows all about photos. And these apps manage their own file storage. […]
+-->
+>[...] And eventually, the file system management is just gonna be an app for pros and consumers aren’t gonna need to use it.
+
+<small>Steve Jobs on the file system; video transcription [from here](https://oleb.net/blog/2012/06/steve-jobs-on-the-file-system/)</small>
+
 coming full circle, Apple Pencil, Adobe rulers, even the place where the computer tool runs becomes blurry. The cloud. Solutions to file handeling.
+
+# Conclusion:
+
+A place to recap, repeat some aspects faster, and elude back to the central question.
+
+Hope to find place in conclusion to explain how a contributive software model answers some if the issues raised above, displacing the user and calling upon a larger context of knowledge  and intelligence.
 
 ---
 
-My intention is to provide context to better understand certain contemporary movement in digital services that seem to focus on efficiency. This risks the further diminishing the cultural relevance and importance of digital practices and crafts, blurring all the lines between service and production.
-
-The initial notions from the first paragraphs will all be explained in individual chapters to lay the ground for the thesis. Later, the questions posed above will come into focus, as I will attempt to look at the inputs and outputs of the two economical models. For this, the example of software will be a (the?) focus point. Digital technology has the necessary componentry to be able to inspect the models individually with examples that speak loudly to the secondary productions that I wonder about above.
+My intention is to provide context to better understand certain contemporary movement in digital services that seem to focus on efficiency. This risks the further diminishing the cultural relevance and importance of digital practices and crafts, and in the case of the most recent implementations in alternate interfaces and web apps: blurring the lines between service and production.
 
 
 
