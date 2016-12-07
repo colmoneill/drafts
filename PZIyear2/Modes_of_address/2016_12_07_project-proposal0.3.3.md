@@ -2,7 +2,7 @@ Title: Project proposal v0.3.3
 Date: 2016/12/07
 
 # Project proposal v0.3.3
-
+## Modes of address
 This research project intends to highlight the importance of different modes of address. In short, the term *modes of address* can be explained as; the *way* we talk. In the case of a service, a device or a tool; the way it talks.
 <br>I'm interested in the relation between the employed mode of address and if / how it enables deeper or alternate understandings of a particular subject matter. My hypothesis is that different modes of address have a great influence on the access to and engagement with the knowledge relative to the subject matter. This theory is the foundation for my project, which I will apply more specifically in the realm of visual production software.
 
@@ -16,22 +16,7 @@ My perspective is that what we are left with is a genre of software, a type of t
 
 Note: My reasonings and aguments for the importance of this knowledge transfer to happen within software is a topic I'm developping in my thesis, in chapter ‘Defining craft’.
 
----
-## an example of the problematic tone:
-From inkscape interface tooltips, on hover:
-> Tweak objects by sculpting or painting (Shift+F2)
-![](images/inkscape-tweak_tool_cropped.png)
-![](../images/inkscape-tweak_tool_cropped.png)
----
-![](images/inkscape-tweak_tool.png)
-![](../images/inkscape-tweak_tool.png)
-
-From inkscape manual, accessed by selecting Topbar menu item Help > Inkscape Manual —focuses browser on page ‘Inkscape: Guide to a Vector Drawing Program’ > Section 12. Spray tool
->  The Spray Tool is used to distribute copies of an object (or objects) much like an airbrush would paint drops. Three modes are available in the Spray Tool-Tool Controls:
-![](images/inkscape-tweak_tool_man.png)
-![](../images/inkscape-tweak_tool_man.png)
-
----
+## Proceedings
 
 I plan to drive this research by taking apart what modes of address can be or can mean; investigating the existing knowledge in education theory, accessibility practices, interface design, tool making and most likely, other topics that I am unaware of at this point in time. To do this, I will be interviewing various people about their vision of what modes of address can be in their field.
 
@@ -46,11 +31,7 @@ An other example are the set of experiments that have been conducted up to now, 
 
 Both of the methods of interview/research and tests/prototypes will be brought back to the project in notes and texts that will document the research, most likely published as they are being written. The web assembly platform at http://tangible.tools (while still being built) should give an idea of this.
 
----
-
-In terms of timetable, The two portions mentioned will happen side by side. I will afford myself the time for this research to happen. At this point I am not concerned about the forms that this work could have by the end of the school year. I am not interested in making an installation. However, setting a intermediary point in February seems sensible, to take account, to decide what tracks are flourishing, which ones should be abandoned. At that point, I could chose to develop one or more axis into some sort of self standing branch (a publication, a website, a physical object, a lecture, a video) or to pursue the research project as is.
-
----
+## Motivations
 
 My motivations for this topic come from observing the attitudes built in to software I was taught to use while training as a graphic designer. Restating some of the content from the introduction; These digital design tools exist thanks to both visual crafts and computer sciences. The computer procedures are used to extend the realm of visual design craft, but seem to make the original 'hand' craft absent. It's the new, in-between, practice that appears in the space left by the two that I am concerned with. Using these design programs does not lead backwards to the craft, and it does not really lead forwards to the automation's and other possible power that computing offers. This makes the doing of the job very focused, but also very autistic and isolated. I'm doing this research because I find it —at the very least— a shame that the interstices are not made more obvious. This, to me, points to a big failure in mode of address and speaks loudly to how incapable the vendor thinks their users. Further, I will argue that the the bordering cultures are areas that should be investigated by the users / designers. Ultimately, I believe it to be —at least partially— the responsibility of the software vendor to not only build and develop the pathways between the bordering cultures into their software tool, but that the mode of address they use to accomplish this and all of their other goals need to have a mode of address that is engaging, accessible, non condescending, and non patronising.
 
@@ -66,3 +47,56 @@ The larger context that this topic poses is one of knowledge, culture, and moral
 The moral context of this is, in my view, very bleak; it seems to stimulate the polarisation of a field that really has no need to be, and as these sequestered narratives move their tools out of our laptops and onto the clouds, the de-skilling of the user is taken one step further. I think that in my moral views I have a duty to communicate, in a way that is understandable, accessible, not condescending, and not patronising, why this is the wrong path.
 
 ## References
+
+---
+## Example material:
+
+<!--
+
+---
+## an example of the problem: the tweak tool
+Following is one example of the type of speech that I find detrimental to the user of, in this case, Inkscape, a vector drawing program.
+From inkscape interface tooltips, on hover:
+> Tweak objects by sculpting or painting (Shift+F2)
+![](images/inkscape-tweak_tool_cropped.png)
+![](../images/inkscape-tweak_tool_cropped.png)
+---
+![](images/inkscape-tweak_tool.png)
+![](../images/inkscape-tweak_tool.png)
+
+What am I supposed to understand from these seven words? There are a lot of requisites for this to be understandable. What are ‘objects’? What kind of tweaks are going to be accessible by sculpting? How am I going to be able to sculpt or paint this object?
+
+Meanwhile, from the inkscape manual, accessed by selecting Topbar menu item Help > Inkscape Manual —focuses browser on page ‘Inkscape: Guide to a Vector Drawing Program’ > Section 12. Spray tool
+> The Tweak Tool is used to make small changes to objects, paths, and colors.
+> The Tweak Tool works like a brush that covers a circular part of the screen, indicated by an orange circle. The affect of the brush is strongest in the center and falls off smoothly till the edge. Two parameters, located in the Tool Controls affect the “physical” nature of the brush: :
+![](images/inkscape-tweak_tool_man.png)
+![](../images/inkscape-tweak_tool_man.png)
+
+Why would the tooltip not use a language closer to the one from the manual?
+
+-->
+
+## an example of the problem: the spray tool
+Following is one example of the type of speech that I find detrimental to the user of, in this case, Inkscape, a vector drawing program.
+From inkscape interface tooltips, on hover over this spray can icon:
+
+Spray objects by sculpting or painting (Shift+F3)
+![](images/inkscape-spray_tool_cropped.png)
+![](../images/inkscape-spray_tool_cropped.png)
+
+![](images/inkscape-spray_tool.png)
+![](../images/inkscape-spray_tool.png)
+
+What am I supposed to understand from these seven words? There are a lot of requisites for this to be understandable. What are ‘objects’? I'm going to be albe to spray by sculpting? Spray by painting? Without these words, would it not be expectable to use this tool to create a spray paint effect? Meanwhile, from the inkscape manual, accessed by selecting Topbar menu item Help > Inkscape Manual —focuses browser on page ‘Inkscape: Guide to a Vector Drawing Program’ > Section 12. Spray tool
+
+>  The Spray Tool is used to distribute copies of an object (or objects) much like an airbrush would paint drops. Three modes are available in the Spray Tool-Tool Controls [..]
+
+![](images/inkscape-spray_tool_man.png)
+![](../images/inkscape-spray_tool_man.png)
+
+## Prototype
+
+<iframe src="~colm/prototypes/modes-of-address/compare_results.html">
+## Timetable
+
+In terms of timetable, The two portions mentioned will happen side by side. I will afford myself the time for this research to happen. At this point I am not concerned about the forms that this work could have by the end of the school year. I am not interested in making an installation. However, setting a intermediary point in February seems sensible, to take account, to decide what tracks are flourishing, which ones should be abandoned. At that point, I could chose to develop one or more axis into some sort of self standing branch (a publication, a website, a physical object, a lecture, a video) or to pursue the research project as is.
