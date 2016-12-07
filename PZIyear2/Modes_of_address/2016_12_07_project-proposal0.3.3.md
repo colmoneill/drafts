@@ -1,7 +1,7 @@
-Title: Project proposal v0.3.2
-Date: 2016/11/29
+Title: Project proposal v0.3.3
+Date: 2016/12/07
 
-# Project proposal v0.3.2
+# Project proposal v0.3.3
 
 This research project intends to highlight the importance of different modes of address. In short, the term *modes of address* can be explained as; the *way* we talk. In the case of a service, a device or a tool; the way it talks.
 <br>I'm interested in the relation between the employed mode of address and if / how it enables deeper or alternate understandings of a particular subject matter. My hypothesis is that different modes of address have a great influence on the access to and engagement with the knowledge relative to the subject matter. This theory is the foundation for my project, which I will apply more specifically in the realm of visual production software.
