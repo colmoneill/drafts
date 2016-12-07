@@ -61,6 +61,7 @@ A part of my previous practice is given in the motivation paragraph, as is in th
 
 
 ---
+
 ## Extra & example material:
 This section is aside from the actual project proposal; it details the beginnings of some of the work. It is here to inform and bring the project proposal up to date, but not intrinsically part of it. Talking points and practicalities.
 
@@ -81,13 +82,16 @@ Meanwhile, the sporadic research will be ongoing, informing my understanding of 
 <!--
 
 ---
-## an example of the problem: the tweak tool
+
+### an example of the problem: the tweak tool
 Following is one example of the type of speech that I find detrimental to the user of, in this case, Inkscape, a vector drawing program.
 From inkscape interface tool-tips, on hover:
 > Tweak objects by sculpting or painting (Shift+F2)
 ![](images/inkscape-tweak_tool_cropped.png)
 ![](../images/inkscape-tweak_tool_cropped.png)
+
 ---
+
 ![](images/inkscape-tweak_tool.png)
 ![](../images/inkscape-tweak_tool.png)
 
@@ -103,7 +107,7 @@ Why would the tool-tip not use a language closer to the one from the manual?
 
 -->
 
-## an example of the problem: the spray tool
+### an example of the problem: the spray tool
 Following is one example of the type of speech that I find detrimental to the user of, in this case, Inkscape, a vector drawing program.
 From inkscape interface tool-tips, on hover over this spray can icon:
 
@@ -121,7 +125,7 @@ What am I supposed to understand from these seven words? There are a lot of requ
 ![](images/inkscape-spray_tool_man.png)
 ![](../images/inkscape-spray_tool_man.png)
 
-## Prototype 0
+### Prototype 0
 
 The first step I took towards gaining understanding of what modes of address are used in software was a literal one.
 
