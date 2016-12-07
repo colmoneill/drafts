@@ -65,13 +65,15 @@ A part of my previous practice is given in the motivation paragraph, as is in th
 ## Extra & example material:
 This section is aside from the actual project proposal; it details the beginnings of some of the work. It is here to inform and bring the project proposal up to date, but not intrinsically part of it. Talking points and practicalities.
 
-## Timetable
-### list view timetable:
+### Timetable
+
+#### list view timetable:
 * proposal validation to end of January: NLTK & word-net processing of language data + making of legible outputs
 * February to mid March: Choosing and making of language adaptations to data, rebuilding language file, recompilation of software, then conducting tests.
 * Mid march: looking at results of tests, seeing which what tests to continue.
 * After mid march: decision on the format of the output of graduation project.
-### detailed verbose timetable:
+
+#### detailed verbose timetable:
 As layed out in the ‘proceedings’ section, there are currently three tracks I'm persuing. The semantic and testing approach will likely have a step by step mappable progress, whereas the larger search in ‘broader modes of address’ is more sporadic, therefor they will be on separate time-lines. Concerning the former:
 * I will have spend time until the end of January, conducting the data-related search into the extracted words and sentences from interfaces. This will involve making the results of the tool-kits searchable and legible.
 * From that point, I will chose to make a (limited) number of adaptations to the language source files, in order to rebuild the software with my changed modes of address. Following this comes some new ‘usability testing’ of the adapted software, giving myself 6 weeks for this part.
