@@ -84,31 +84,6 @@ As layed out in the ‘proceedings’ section, there are currently three tracks 
 * From the conclusions of the rounds of tests, a clearer path will be set out towards a final graduation project ‘collection-object’
 Meanwhile, the sporadic research will be ongoing, informing my understanding of the larger topic.
 
-<!--
-
----
-
-### an example of the problem: the tweak tool
-Following is one example of the type of speech that I find detrimental to the user of, in this case, Inkscape, a vector drawing program.
-From inkscape interface tool-tips, on hover:
-> Tweak objects by sculpting or painting (Shift+F2)
-![](../images/inkscape-tweak_tool_cropped.png)
-
----
-
-![](../images/inkscape-tweak_tool.png)
-
-What am I supposed to understand from these seven words? There are a lot of requisites for this to be understandable. What are ‘objects’? What kind of tweaks are going to be accessible by sculpting? How am I going to be able to sculpt or paint this object?
-
-Meanwhile, from the inkscape manual, accessed by selecting top-bar menu item Help > Inkscape Manual —focuses browser on page ‘Inkscape: Guide to a Vector Drawing Program’ > Section 12. Spray tool
-> The Tweak Tool is used to make small changes to objects, paths, and colors.
-> The Tweak Tool works like a brush that covers a circular part of the screen, indicated by an orange circle. The affect of the brush is strongest in the centre and falls off smoothly till the edge. Two parameters, located in the Tool Controls affect the “physical” nature of the brush: :
-![](../images/inkscape-tweak_tool_man.png)
-
-Why would the tool-tip not use a language closer to the one from the manual?
-
--->
-
 ### an example of the problem: the spray tool
 Following is one example of the type of speech that I find detrimental to the user of, in this case, Inkscape, a vector drawing program.
 From inkscape interface tool-tips, on hover over this spray can icon:
