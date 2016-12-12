@@ -1,0 +1,19 @@
+digraph modes_of_address{
+overlap = false
+layout = neato
+a -> b
+a -> c
+a -> d
+a [margin=0.4, shape=tripleoctagon, label="Modes of address\l research tracks"]
+b [shape=box, margin=0.3, label="1. Semantic research"]
+c [shape=box, margin=0.3, label="2. Usability tests"]
+d [shape=box, margin=0.3, label="3. Broader fields modes of address"]
+b -> c -> b [style=dotted]
+d -> a
+e -> d
+f -> d
+g -> d
+e [shape=none, label="education theories"]
+f [shape=none, label="nudge theory"]
+g [shape=none, label="handeling"]
+}
