@@ -1,5 +1,5 @@
 Title: Project proposal v0.3.3
-Date: 2016/12/07
+Date: 2016-12-07
 
 # Project proposal v0.3.3
 ## Modes of address
