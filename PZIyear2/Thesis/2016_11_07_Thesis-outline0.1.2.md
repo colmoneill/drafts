@@ -1,5 +1,5 @@
 Title: Thesis outline 0.1.2
-Date: 07/11/2016
+Date: 2016/11/07
 
 ## Thesis outline
 ##### standing outline for Thesis Graduate Seminar deadline 2016_11_07
