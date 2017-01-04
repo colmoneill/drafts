@@ -2,14 +2,6 @@ Title: Introduction
 Date: 2017/01/01
 
 # Introduction:
-<!--
-* Central research question
-* Why is it important for static visual production software to transfer knowledge?
-  * What is visual production software
-  * There is no visual production software that does not mimic a physical tangible action, something I believe to be a craft.
-  * Physical tangible actions are what visual production software virtualises.
-* run through all the subquestions from following chapters
--->
 This text aims to inform and anwser a research question about software, culture, and their current relation; **Why must static visual production software technologies transfer the knowledge and skills of the craft they virtualise?**
 
 Some terms need specifications from this question, and this is where we will start:
