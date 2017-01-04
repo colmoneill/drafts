@@ -1,10 +1,10 @@
 Title: Thesis outline 0.2.1
 Date: 2016/12/07
 
-## Thesis outline
+## Thesis outline 0.2.1
 ##### standing outline for Thesis Graduate Seminar deadline 2016_11_09 after 10am meeting with Marloes.
 
-Central research question: How do static visual production software technologies transfer the knowledge and skills of the craft they virtualise?
+Central research question: Why must static visual production software technologies transfer the knowledge and skills of the craft they virtualise?
 
 <blockquote>
 *Technology is typically seen as a problem-solver, and well-designed technology **is supposed to follow an according aesthetic of efficiency**, ease and—ultimately—automation.*
