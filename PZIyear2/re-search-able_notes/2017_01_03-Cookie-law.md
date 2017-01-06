@@ -33,12 +33,16 @@ Meanwhile, let's look at some example of how websites go about getting your info
 Now that the directive is wearing thin and implemented across the board, most sites get away with a two word mention. Two heavy words that assume that if you continue without changing your settings, they assume that you are happy to receive all cookies from X website.
 
 ![debenhams](../images/cookies/cc_debenhams-blog-full.png)
+<figcaption>Cookies</figcaption>
 
 ![m-s](../images/cookies/cc_m_s-blog-full.png)
+<figcaption>Cookie Policy - find out more</figcaption>
 
 ![co-op](../images/cookies/cc_co-op-blog-full.png)
+<figcaption>Privacy & cookies</figcaption>
 
 ![lloyds](../images/cookies/cc_lloyds_tsb-blog-full.png)
+<figcaption>Cookie use</figcaption>
 
 ### (Full) Phrasal:
 
@@ -68,9 +72,9 @@ Meanwhile, some websites go the extra mile and more again. News websites —but 
 <div class="optanon-alert-box-bg"><div class="optanon-alert-box-logo"> </div><div class="optanon-alert-box-body"><p>Your privacy is important.  You can protect it on this site by limiting the cookies we set in your browser.  This will not affect cookies on other sites, or the functionality of this site.</p></div><div class="optanon-clearfix"></div><div class="optanon-alert-box-button-container"><div class="optanon-alert-box-button optanon-button-close"><div class="optanon-alert-box-button-middle"><a class="optanon-alert-box-close" href="#">Close</a></div></div><div class="optanon-alert-box-button optanon-button-allow"><div class="optanon-alert-box-button-middle"><a class="optanon-allow-all" href="#">Accept Cookies</a></div></div><div class="optanon-alert-box-button optanon-button-more"><div class="optanon-alert-box-button-middle"><a class="optanon-toggle-display" href="#">Control Cookies</a></div></div></div><div class="optanon-clearfix optanon-alert-box-bottom-padding"></div></div>
 </figcaption>
 
-### Burrial:
+### Burial:
 
-It's hard to fault this example, because they make mention of the policy twice on the homepage, but burrying the leagible informating inside a large portion of text is a technique we see quite often in other User License Agreements, documents that are purposefully made illegible.
+It's hard to fault this example, because they make mention of the policy twice on the homepage, but burying the legible informating inside a large portion of text is a technique we see quite often in other User License Agreements, documents that are purposefully made illegible.
 ![gocompare](../images/cookies/cc_gocompare-blog-full.png)
 ![gocompare-green](../images/cookies/cc_comparethemarket-blog-full.png)
 
@@ -78,7 +82,7 @@ It's hard to fault this example, because they make mention of the policy twice o
 
 ![facebook](../images/cookies/facebook-firefox.png)
 <figcaption>
-By clicking Sign Up, you agree to our Terms and that you have read our Data Pilicy, including our Cookie Use.
+By clicking Sign Up, you agree to our Terms and that you have read our Data Policy, including our Cookie Use.
 </figcaption>
 
 ![ms-mobile in form](../images/cookies/cc_m_s_mobile-blog-third.png)
