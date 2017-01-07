@@ -1,4 +1,4 @@
-Title: The user, the learning curve
+Title:Chapter 3 — The user, the learning curve
 Date: 2017/01/04
 
 # The user, the learning curve
