@@ -12,19 +12,19 @@ What is new, is the way they are leveraged in ‘digital network’ models. Entr
 
 Now, I'm not anti-technology. I'm also not saying that everybody needs to learn programming languages and use the shell. I'm hoping to be able to point at something in the middle. And it will stay within existing schemes, just adjusting some parameters. The ones that existed before tech. I don't think the wheel needs to be reinvented or that something needs to be blown up, I just think it's time for our (common) cultures to incorporate more understandings of how computers work, what they can enable, and the practices that they require. Of course, this is happening, despite me. I'm just going to argue that all of the people involved in (commercial or not) digital making, should make more efforts towards accessibility, making sure they can be read, in all planar dimensions, being generous with information and the proceedings. I'm going to argue that there is nothing to be lost by a more open approach, but before I can get to that, I will need to make a case to highlight the spoken language that is used by the systems, solutions and products. I think it's in the legible language that is used to speak to us in the software that we need to go back to.
 
-I am working this dissertation with one central research question: **Why must static visual production software technologies transfer the knowledge and skills of the craft they virtualise?** This question is made to challenge my opinions, and ensure a logical progression through the themes that are needed to answer it, but I'm choosing not to refer to it often in the actual text —introduction exepted— as I fear that writing only to answer a question —that I'm asking myself— could contradict my end goals. I hope that by chosing a tone that is closer to speech (as opposed to academic writing) and by building up notions piece by piece I manage to keep the themes cross-referenceable, and relatable to your areas of interest and expertise. I hope that with this tone, I speak in a similar manor that I would if we were sitting together talking out loud, and I keep my opinions clear and engaging.
+I am working this dissertation with one central research question: **Why must static visual production software technologies transfer the knowledge and skills of the craft they virtualise?** This question is made to challenge my opinions, and ensure a logical progression through the themes that are needed to answer it, but I'm choosing not to refer to it often in the actual text —introduction excepted— as I fear that writing only to answer a question —that I'm asking myself— could contradict my end goals. I hope that by choosing a tone that is closer to speech (as opposed to academic writing) and by building up notions piece by piece I manage to keep the themes cross-referenceable, and relatable to your areas of interest and expertise. I hope that with this tone, I speak in a similar manor that I would if we were sitting together talking out loud, and I keep my opinions clear and engaging.
 
-For all this I can only speak from my perspective, from my experiences, and from research. My position is better detailed in this text: [‘Position statement’](/position-statement.html). I will speak about what technologies can do and has done for craft, and work my way towards the people the technologies were designed for, and the space between how they were expected to use, and what they had to learn, then we will get back to the language that is left in the two faced machines that are software program interfaces, and how I think they can be made better, in very simple ways.
+For all this I can only speak from my perspective, from my experiences, and from research. My position is better detailed in this text: [‘Position statement’](/position-statement.html). I will speak about what technologies can do and has done for craft, and work my way towards the people the technologies were designed for, and the space between how they were expected to use, and what they had to learn. Then we will get back to the language that is left in the two faced machines that are software program interfaces, and how I think they can be made better, in very simple ways.
 
 # Table of contents:
 ## [Abstract](#)
 ## [Introduction](#)
-## [Chapter 1: defining ‘craft’](/chapter-1-defining-craft.html)
-## [Chapter 2: efficacy or efficiency](/chapter-2-efficacy-or-efficiency)
-## [Chapter 3: the user, the learning curve](/chapter-3-the-user-the-learning-curve)
-## [Conclusions](/)
+## [Chapter 1 : defining ‘craft’](/chapter-1-defining-craft.html)
+## [Chapter 2 : efficacy or efficiency](/chapter-2-efficacy-or-efficiency.html)
+## [Chapter 3 : the user, the learning curve](/chapter-3-the-user-the-learning-curve.html)
+## [Conclusions](/dissertation-conclusions.html)
 
-# Introduction:
+# Introduction<small>(formal)</small>:
 This text aims to inform and answer a research question about software, culture, and their current relation; **Why must static visual production software technologies transfer the knowledge and skills of the craft they virtualise?**
 
 Some terms need specifications from this question, and this is where we will start:
@@ -36,11 +36,11 @@ Some terms need specifications from this question, and this is where we will sta
 > *Technology is typically seen as a problem-solver, and well-designed technology **is supposed to follow an according aesthetic of efficiency**, ease and—ultimately—automation.*
 <br><small>To Save Everything, Click Here — Evgeny Morozov, ch 9</small>
 
-* craft they virtualise: the digital version that results from the craft
+* craft they virtualise: the digital version that results from transforming a a manual craft into a software one
 
-These definitions will be pushed further and contextualised in the first chapter. What is a digital craft? When is on computer practice a craft? Is all production work on screen therefore the work of a crafts-person? Where do the actions come from? What or who determines the order of the proceedings? What are the models?
+<br>What is a digital craft? When is on computer practice a craft? Is all production work on screen therefore the work of a crafts-person? Where do the actions come from? What or who determines the order of the proceedings? What are the models?
 
-To attempt to understand some of the notions of software technologies for craft, beyond the early socio-historical contexts that explain why software came to be at all, we will look at the notion of efficiency and efficacy. What influences have they had on our understanding of software practices as crafts.
+To attempt to understand some of the notions of software technologies for craft, beyond the early socio-historical contexts that explain why software came to be at all, we will look at the notion of efficiency and efficacy (Chapter 2). What influences have they had on our understanding of software practices as crafts.
 
 Later, the place of the user will be in question. Who is s/he, a user, a person, a worker, a link in a chain, an artist? How can s/he learn this environment? What is needed by a newcomer to understand the practice that is enabled by the software?
 
