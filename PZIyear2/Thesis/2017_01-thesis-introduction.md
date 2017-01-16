@@ -17,8 +17,8 @@ I am working this dissertation with one central research question: **Why must st
 For all this I can only speak from my perspective, from my experiences, and from research. My position is better detailed in this text: [‘Position statement’](/position-statement.html). I will speak about what technologies can do and has done for craft, and work my way towards the people the technologies were designed for, and the space between how they were expected to use, and what they had to learn. Then we will get back to the language that is left in the two faced machines that are software program interfaces, and how I think they can be made better, in very simple ways.
 
 # Table of contents:
-## [Abstract](#)
-## [Introduction](#)
+## [Abstract](/dissertation-introduction.html)
+## [Introduction](/dissertation-introduction.html)
 ## [Chapter 1 : defining ‘craft’](/chapter-1-defining-craft.html)
 ## [Chapter 2 : efficacy or efficiency](/chapter-2-efficacy-or-efficiency.html)
 ## [Chapter 3 : the user, the learning curve](/chapter-3-the-user-the-learning-curve.html)
