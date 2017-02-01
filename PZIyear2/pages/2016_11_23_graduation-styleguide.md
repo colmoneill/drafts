@@ -15,8 +15,14 @@ inspired by ginger coons
 * U+2009 = 'hairlinespace'
 * U+2018 = ‘
 * U+2019 = ’
+* U+201C = “
+* U+201D = ”
 * U+00B6 = ¶
 * U+2713 = ✓
+* U+21b1 = ↱
+* U+21b3 = ↳
+* U+2192 = →
+* U+2197 = ↗
 
 ## When should it’s contain an apostrophe?
 The only time it’s should have an apostrophe is when it replaces it is or it has. The possessive form of its should not contain an apostrophe, just like possessive pronouns such as hers don’t require apostrophes.
