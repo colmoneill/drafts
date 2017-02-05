@@ -24,6 +24,8 @@ Stable URL: http://www.jstor.org/stable/1576995
 
 >  McCullough is, much like the often, cited William J. Mitchell, an optimist who believes that the new economy and social ecology brought about by the Internet will lead to a less hierarchical regime of creative participation that will in fact be close to the ideals of pre-modern craftsmanship, populated not by digital proletarians disguised as artists, but by true digital artisans.
 
+
+
 ### A. Aneesh review
 http://journals.sagepub.com/doi/abs/10.1177/089443939801600213
 
@@ -35,7 +37,7 @@ http://journals.sagepub.com/doi/abs/10.1177/089443939801600213
 
 > [...] recent advances in information technology, McCullough claims, transcend the hand-mind split engendered by industrialism and continued by computation-based technologies. The first sign of digital craft —the direct manipulation of the object of work usually associated with traditional craft— is reflected in our ability to point at our work with a mouse. In the mid-1980s, MacPaint and MacDraw were the first direct manipulation programs requiring hand-eye coordination instead of typing number on a keyboard.
 
-> [...] the industrial age introduced an unprecedented abstraction of work, in which tools' motion became machine powered and their manipulation became indirect. Soon the mans of production became too extensive to be handled by the individual craftsman.
+> [...] the industrial age introduced an unprecedented abstraction of work, in which tools' motion became machine powered and their manipulation became indirect. Soon the means of production became too extensive to be handled by the individual craftsman.
 
 > Automation sounded the death-knell of artisanship because it furthered the abstraction of work reflected in the redundancy of traditional tool users and the emergence of creative symbols users —engineers, accountants, and managers.
 
