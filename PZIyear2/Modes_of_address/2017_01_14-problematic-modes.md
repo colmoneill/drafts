@@ -13,6 +13,15 @@ Date: 2017/01/14
 <h3 class="">«High fives! Your campaign is in the send queue and will be landing in inboxes soon.»</h3>
 <small>Mailchimp</small>
 
+<h3 class="">«What’s on your mind?»</h3>
+<small>Facebook</small>
+
+<h3 class="">«What's happening?»</h3>
+<small>Twitter</small>
+
+<h3>Celebrate your birthday!</h3>
+<small>an account creation form asking for a date of birth</small>
+
 <!--
 <h3>Whoops! There's an outstanding balance on your account</h3>
 -->
