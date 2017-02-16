@@ -11,12 +11,3 @@ Is the visual production software user automatically a craftsman? Do all users m
 Relate back to central research question by pointing out cold modes of address as an outcome of confusing efficiency and efficacy.
 
 the doer, the producer, the craftsman, the professional, specialisations, comforts
-
----
-# Table of contents:
-## [Abstract](/dissertation-introduction.html)
-## [Introduction](/dissertation-introduction.html)
-## [Chapter 1 : defining ‘craft’](/chapter-1-defining-craft.html)
-## [Chapter 2 : efficacy or efficiency](/chapter-2-efficacy-or-efficiency.html)
-## [Chapter 3 : the user, the learning curve](/chapter-3-the-user-the-learning-curve.html)
-## [Conclusions](/dissertation-conclusions.html)
