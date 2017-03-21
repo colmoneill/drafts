@@ -1,5 +1,6 @@
 Title: Thesis outline 0.1
 Date: 2016/10/26
+Status: outdated
 
 ## Thesis outline
 ##### standing version for Thesis Graduate Seminar on date 2016_11_07

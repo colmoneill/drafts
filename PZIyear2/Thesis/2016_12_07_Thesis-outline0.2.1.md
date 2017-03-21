@@ -1,5 +1,6 @@
 Title: Thesis outline 0.2.1
 Date: 2016/12/07
+Status: outdated
 
 ## Thesis outline 0.2.1
 ##### standing outline for Thesis Graduate Seminar deadline 2016_11_09 after 10am meeting with Marloes.
