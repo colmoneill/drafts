@@ -8,10 +8,12 @@ Status: draft
 * Part 2: Question: cynicism best managed with critical making or with direct communication?
 
 # Part 1: A) Recap, contextualisation
-## The 'what'
+## What?
 This project is about interfaces and how they address us.
 <br>The way interfaces speak, what they are, what they do and what they embody.
 The project looks at language specifically, but the context for the language is equally as important.
+
+![](../images/tone-profile-delta.png)
 
 # My interest in interfaces stems from
 * communication
@@ -19,8 +21,6 @@ The project looks at language specifically, but the context for the language is 
   * visual communication
 * accessiblity
 * possible literacy
-
-In short, all the theoretical roles that a graphic designer has.
 
 # software interfaces have many forms
 * command line interface
@@ -45,24 +45,28 @@ In short, all the theoretical roles that a graphic designer has.
 
 # Interfaces for software services appear in so many different ways, we don't really know what they do for us anymore.
 
+![](../images/interfaces2.gif)
+
 # Interfaces address us in so many different ways, We're beginning to forget about them. A sort of interface omnipresence, then an incontestable voice.
+
+![](../images/interfaces.gif)
 
 # The meaning of **interface** is slowly being confused, in the very same way the word **technology** has lost meaning.
 
-# Technology has slowly lost meaning, because it has started to mean everything.
+# (T)technology has slowly lost meaning, because it has started to mean everything.
 
-# Most of the times we say Technology we mean to say that it is packaging, and conventions.
+# Most of the times we say T(t)echnology we mean to say that it is packaging, and conventions.
 
-# Not to say that Technologies do not exist, they simply are much deeper buried than we think.
-* TCP IP
+# Not to say that technologies do not exist, they simply are much deeper buried than we think.
+* TCP/IP
 * DNS
-* HTML
-* JS
-* these are all technologies, but to say that 'the internet', for example, is a technology is plain oversight.
+* DHCP
+
+these are all technologies, but to say that 'the internet', for example, is a technology is plain oversight.
 
 # Most of the times we say Technology we mean to say that it is **packaging**, and **conventions**.
 
-# What we see with interfaces, is the tip of the iceberg, we see the wrappers, the packaging's. And these wrappers are given to us **with but also as** interfaces.
+# What we see with interfaces, is the tip of the iceberg, we see the wrappers, the packaging’s. And these wrappers are given to us **with but also as** interfaces.
 
 # Why?
 
@@ -86,22 +90,56 @@ In short, all the theoretical roles that a graphic designer has.
 
 # Entire fields are developing around the ideas of user interaction and user experience. Processes and constructs that exist to keep a user interested, to keep a user focused on the interface, and therefor, acting within the ideas / the ideals / the morals of the interface.
 
+# We are renaming interfacing as experience:
+* ‘experience designers’
+* ‘user experience designers’
+* ‘user interface designers’
+* ‘interaction designers’
+* ‘product designers’
+
 # Because so called Technology is also about capture, most pessimistically, getting permanent customers chained into their seats. Everybody seems to be wanting to capture the user, either for money, or for identical (almost religious) reasons.
 
 # Attempting to keep a user focused and interested with the extremely well researched fields of user experience leads me to think of these ideals as enforced politics. That by using such interface to a program, I am substituting my ideas, my ideals for the ones of the interface.
 
 # It is an uneven playing field. One of service and literacy. A model that has existed for years, but this model of service, service in the digital realm touches many more aspects of life and culture and politics then trades services used to.
 
-# To balance out this playing field, broader understanding and broader literacy of interface practices, digital practices is, to my eyes, key.
+# To balance out this playing field, the simple answer is, in my opinion, broader understanding and broader literacy of interface practices.
 
 # How?
 
 # B) Prototypes : catalogue and database
 
-## building a database, a catalogue, with which to look at the ways in which interfaces work. Building collections and crossing metadata.
+# The issues that keep me interested in interfaces are vast and wide spreading. The effects of the image practices, the visual cultures are an example of an aspect of interface communication I have not been able to look into.
 
-## an ethnographic analysis, a categorisation of the subversive methods by which interfaces become omnipresent:
+# Instead I've focused on the very most basic interface: language.
 
-http://tangible.tools/problematic-modes-examples.html
+# In all the ways in which interfaces speak to us, the use of language is one way of slicing through this vast topic.
+
+# a few of my attempts to grasp the languages employed by interfaces:
+* http://tangible.tools/problematic-modes-examples.html
+* http://tangible.tools/active-text-conversions.html
+* http://tangible.tools/text-conversion-diff.html
+* http://tangible.tools/flesch-kincaid-readibility-tests-cookie-policy-anouncements.html
+* http://tangible.tools/visualising-website-cookie-policy-information.html
+
+# building a database, a catalogue, with which to look at the ways in which interfaces work. Building collections and crossing metadata.
+
+* http://tangible.tools/problematic-modes-examples.html
+
+
+# Attempting to broaden this collection resulted in the attitude of an ethnographic analysis, a categorisation of the subversive methods by which interfaces become omnipresent:
 
 http://localhost:5000/
+
+# catalogue / ethnography vs net art piece
+→ a cynical overtone
+
+# Sort of a cross section right now; go with the 'negative', or go with the 'positive'?
+
+* https://darkpatterns.org/
+* https://crit.hangar.org/toolbox/
+* https://www.autistici.org/index
+* https://tacticaltech.org/
+* http://www.ifapa.me/
+* https://disnovation.net
+* http://internet-atlas.net/
