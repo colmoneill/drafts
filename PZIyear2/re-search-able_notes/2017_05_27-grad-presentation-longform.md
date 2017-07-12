@@ -90,3 +90,7 @@ They reveal the importance they give to this regulation, and the importance they
 This substitution deepens my disidentification. I am spoken to as an individual I do not identify with, and my plain acts of being in online spaces associates me with politics I do not agree with.
 
 ## 3 totalisation
+
+![](../images/grad-pres/facebook.gif)
+
+![](../images/grad-pres/pinterest-gender.png)

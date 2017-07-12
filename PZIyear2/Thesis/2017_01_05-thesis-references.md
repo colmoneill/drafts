@@ -36,9 +36,11 @@ Murrey, T., 2009. Sharing good practice, Forum for International Students. [onli
 
 * Briz Nick, 2016. The Browser: how it became the artist's modern canvas. [video online] Available at: <https://www.youtube.com/watch?v=bRCgREBrcTo> [accessed March 2017].
 
-* Broeckmann Andreas, 2001. Review: Abstracting Craft: The Practised Digital Hand by Malcolm McCullough, Leonardo, [online] Available at: <http://www.jstor.org/stable/1576995> [Accessed November 2016]
+* Broeckmann Andreas, 2001. Review: Abstracting Craft: The Practiced Digital Hand by Malcolm McCullough, Leonardo, [online] Available at: <http://www.jstor.org/stable/1576995> [Accessed November 2016]
 
 * Fuller Matthew, 2000. It looks like you're writing a letter: Microsoft Word. Nettime. [online] 5 September 2000. Available at: <http://www.nettime.org/Lists-Archives/nettime-l-0009/msg00040.html> [Accessed 22 September 2016].
+
+* Galloway R. Alexander, 2012. The interface effect. Cambridge, UK: Polity Press.
 
 * Gürses Seda and van Hoboken Joris , 'Privacy After the Agile Turn, in: Selinger et al (eds.), The Cambridge Handbook of Consumer Privacy, Forthcoming 2017. [online] Available at <https://osf.io/ufdvb/> [Accessed October 2016].
 
@@ -50,7 +52,9 @@ Murrey, T., 2009. Sharing good practice, Forum for International Students. [onli
 
 * Manovich Lev, 2011. Cultural software. [online] Available at: <http://manovich.net/content/04-projects/070-cultural-software/67-article-2011.pdf> [Accessed January 2017].
 
-* McCullough Malcolm, 1996. Abstracting Craft: The Practised Digital Hand. Cambridge, MA: MIT Press.
+* McCullough Malcolm, 1996. Abstracting Craft: The Practiced Digital Hand. Cambridge, MA: MIT Press.
+
+* Morozov Evgeny, 2013. To Save Everything Click Here. London, UK: Penguin books.
 
 - Nelson Ted, 2012. The Myth of Technology/Computers for Cynics. [video online] Available at: <https://www.youtube.com/watch?v=KdnGPQaICjk> [Accessed December 2016].
 
