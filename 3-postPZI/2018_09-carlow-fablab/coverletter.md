@@ -1,0 +1,34 @@
+Junior researcher, artistic research application
+Applicant name: Colm O'Neill
+Document 1 of 6
+Vacancy number 17-195
+
+---
+
+Brussels, Friday 30th June 2017
+
+Dear board,
+
+My name is Colm O'Neill, I am a researcher and graphic designer currently based in Rotterdam. I have very recently graduated from the Piet Zwart Institute as a Master in Media Design and communication. Previous to this master program I attended La Cambre visual arts school in Brussels where I obtained my bachelor degree in graphic design and communications.
+
+During my time studying my bachelors degree, I became very aware of how unconsidered the digital tools that were intricate to this practice had become. I found myself in constant conflict between entire amazement of design software tools abilities and total disgust of one company's unavoidability. I had to deal with changing subscriptions methods, version incompatibilities or upgrade cycles that no user I knew could sustain. During this time of internal conflict I became aware of then eventually joined Open Source Publishing.
+
+My work and it's development towards a research practice have very clearly been shaped and influenced by the design caravan Open Source Publishing. OSP grew out of the association for art and media Constant VZW in Brussels. I joined OSP during my design studies and the collective's work was my life line towards alternative practices that seemed not to exist within the graphic design scene I thought I knew. For the last decade, OSP has gone from questioning the feasibility of practising graphic design with Free/Libre Open Source Software to setting and distributing alternative methods for practising design in a more understood and intimate relation with the computer tool. It is now a non-profit organisation and defined as a open source practice, research and production collective. My personal work within OSP has varied in rhythms over the years since 2013 but always resonated around the outwards communication that the group needed to interact with larger audiences. Among the projects that I have been involved within OSP, one of which I am particularly proud of is the reshaping of the public website osp.kitchen two years ago, where the front end was dramatically reviewed to make the file-and-process-display website system more understandable and more legible to the first time visitor.
+
+A second project I have gained a lot from within OSP is / was the organisation of the Relearn (then summer school) project in 2013. Many of OSP's ideals aim to re-evaluate of the practical versus cultural value that digital production give way to. In that light, OSP has always been concerned with the learning and teaching of digital literacy. In fact, a large part of OSP's activities to date are education related, giving workshops and seminars for practical and conceptual development. Relearn came from the desire to benefit from the informal workshop setups without the constrictions that (art) schools often have to function in. Therefor Relearn set itself the goal of having as many participants as it had teachers, as a way of making the learning horizontal and not hierarchical. Relearn also wants to give subject matter and it's outcomes to the participants, to be able to substitute focus on production with focus on process and actual learning. Relearn has been an extremely successful experiment in collective learning, one that I am proud to say that I have been part of every year since 2013. The 2017 edition of Relearn will take place in Rotterdam, following my desire to bring together the community of researchers, artists and designers that exist there. Relearn 2017 focuses on co-autonomies and will be hosted by the Poortgebouw from August 28th.
+
+Despite all the experience and skills I have gained thanks to OSP, I made the decision to join the Piet Zwart Institute to develop my own research practice, and focus on subjects personally. Throughout my adventures in graphic design and web development, one concern has remained central, digital literacy. In the middle of the politics that the Open Source movement addresses is the cultural value of our collective digital objects. Downstream from this value is the intangibility of ‘digital’ and the incomprehension that comes from it's immateriality. This is broadly what I mean by my concerns with digital literacy, ones ability to understand and acquire knowledge that explains this digital matters. I have researched this subject in various forms during my masters, the most up to date forms of this research materialise in my thesis, Tangible tools, in which I question the notion of craft within screen based visual design.
+
+A second —project form— of this research is my graduate project Adversarial Interfaces, which comes as a response to a trio of phenomenons I have been observing in the context of acquiring or obfuscating digital literacy: deep integration, seamless design, and informal modes of address. Adversarial Interfaces appends the notion of Adversarial Design (Carl DiSalvo, 2013) to user interfaces, and asks the question: How can user interfaces be objects of adversivity and agonism? This research project is ongoing, but the project space adversarial.interfaces.site serves as a public site to show and develop the research around the need for this question, as well as responses to it.
+
+DiSalvo's notion of adversarial design provided me with a pluralistic frame within which I could set aside the various moral and ethical dilemmas that created disagreements in the audience for my research and let me focus on constructive methods to act on and respond to the criticality and cynicism I was putting forwards. The broader frames of critical design, tactical media and eventually critical making have been exiting to dive into recently, as they are outspoken, intelligent and verbose ways of responding to the tactics of digital literacy obfuscation I have been researching in the last two years.
+
+The birth of the ‘Bridging art, design and technology through Critical Making’ project points to an interesting common need for multiple approaches to criticality. I believe my work in questioning adversarial interfaces would help me to consider multiple approaches within the subproject of pushing the boundaries of criticality. My research statement details what my proposal towards this is question is, by taking common grounds of communication to observe and map what and how critical responses can exist.
+
+I believe my research within criticality is only beginning, but my knowledge of the open source movement and my very own practices in it are well developed and ready to inform the questions of this research project towards very real progressive ideals of collectivity and pluralism.
+
+Thank you for considering this application,
+
+Best regards,
+
+Colm O'Neill

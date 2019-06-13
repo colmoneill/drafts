@@ -1,0 +1,268 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>supporting-docs-fablab</title><link href='https://fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&subset=latin-ext' rel='stylesheet' type='text/css' />
+<link href='https://fonts.googleapis.com/css?family=Lato:900,300&subset=latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; padding-bottom: 70px; white-space: pre-wrap; overflow-x: visible; }
+.first-line-indent #write p .md-line { text-indent: 0px; }
+.first-line-indent #write li, .first-line-indent #write p, .first-line-indent #write p .md-line:first-child { text-indent: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write > blockquote:first-child, #write > div:first-child, #write > figure:first-child, #write > ol:first-child, #write > p:first-child, #write > pre:first-child, #write > ul:first-child { margin-top: 30px; }
+#write li > figure:first-child { margin-top: -20px; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; }
+button, input, select, textarea { color: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+h1, h2, h3, h4, h5, h6 { margin-top: 1rem; margin-bottom: 1rem; }
+p { -webkit-margin-before: 1rem; -webkit-margin-after: 1rem; -webkit-margin-start: 0px; -webkit-margin-end: 0px; }
+.mathjax-block { margin-top: 0px; margin-bottom: 0px; -webkit-margin-before: 0px; -webkit-margin-after: 0px; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px !important; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 80px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+pre { white-space: pre-wrap; }
+pre.contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+.md-fences.mock-cm { white-space: pre-wrap; }
+.show-fences-line-number .md-fences { padding-left: 0px; }
+.show-fences-line-number .md-fences.mock-cm { padding-left: 40px; }
+.CodeMirror-line { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+.footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
+  #write { margin-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { padding-left: 1cm; padding-right: 1cm; padding-bottom: 0px; break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  @page { margin: 20mm 0px; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > img:only-child { display: block; margin: auto; }
+.md-line > .md-image:only-child, p > .md-image:only-child { display: inline-block; width: 100%; text-align: center; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.mathjax-block { white-space: pre; overflow: hidden; width: 100%; }
+p + .mathjax-block { margin-top: -1.143rem; }
+.mathjax-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, tt { font-family: var(--monospace); }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; }
+a.md-print-anchor { border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.mathjax-block .MathJax_SVG_Display { text-align: center; margin: 1em 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: monospace; }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+
+
+:root { --control-text-color: #777; }
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 300; src: local("Merriweather Light"), local("Merriweather-Light"), url("./pixyll/Merriweather-Light.ttf"); }
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 900; src: local("Merriweather Heavy"), local("Merriweather-Heavy"), url("./pixyll/Merriweather-Bold.ttf"); }
+@font-face { font-family: Merriweather; font-style: italic; font-weight: 300; src: local("Merriweather Light Italic"), local("Merriweather-LightItalic"), url("./pixyll/Merriweather-LightItalic.ttf"); }
+@font-face { font-family: Merriweather; font-style: italic; font-weight: 900; src: local("Merriweather Heavy Italic"), local("Merriweather-HeavyItalic"), url("./pixyll/Merriweather-BoldItalic.ttf"); }
+@font-face { font-family: Belgika-8th; src: url("./colm-academic/Belgika-8th.otf"); font-weight: bold; font-style: normal; }
+@font-face { font-family: Belgika-16th; src: url("./colm-academic/Belgika-16th.otf"); font-style: normal; }
+@font-face { font-family: Belgika-40th; src: url("./colm-academic/Belgika-40th.otf"); font-style: normal; }
+h1, .h1, .f1 { font-size: 2rem; line-height: 2.5rem; }
+h2, .h2, .f2 { font-size: 1.5rem; line-height: 2rem; }
+h3, .h3, .f3 { font-size: 1.25rem; line-height: 1.5rem; }
+p, .p, .f4, h4, h5, h6, dl, ol, ul, pre[cid], div[cid], #typora-source { font-size: 1.125rem; line-height: 1.5rem; }
+h4 { font-size: 1.13rem; }
+body { font-family: Merriweather, "PT Serif", Georgia, "Times New Roman", STSong, serif; line-height: 1.5rem; font-weight: 400; }
+#write { max-width: 914px; color: rgb(51, 51, 51); }
+img { width: auto; max-width: 100%; }
+body { font-size: 1.5rem; box-sizing: border-box; }
+.ty-table-edit { background: rgb(237, 237, 237); }
+table { width: 100%; font-size: 1.125rem; }
+table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table > tbody > tr > td, table > tfoot > tr > th, table > tfoot > tr > td { padding: 12px; line-height: 1.2; vertical-align: top; border-top: 1px solid rgb(51, 51, 51); }
+table > thead > tr > th { vertical-align: bottom; border-bottom: 2px solid rgb(51, 51, 51); }
+table > caption + thead > tr:first-child > th, table > caption + thead > tr:first-child > td, table > colgroup + thead > tr:first-child > th, table > colgroup + thead > tr:first-child > td, table > thead:first-child > tr:first-child > th, table > thead:first-child > tr:first-child > td { border-top: 0px; }
+table > tbody + tbody { border-top: 2px solid rgb(51, 51, 51); }
+p { font-weight: 300; line-height: 1.5; clear: both; }
+abbr { border-bottom: 1px dotted black; cursor: help; }
+pre, code { font-family: Menlo, Monaco, "Courier New", monospace; }
+code, .md-fences { color: rgb(122, 122, 122); }
+.md-fences .CodeMirror.CodeMirror-wrap { top: -1.5em; margin-bottom: -1.5em; }
+.md-fences { padding: 1.125em; margin-bottom: 0.88em; font-size: 1rem; border: 1px solid rgb(122, 122, 122); }
+blockquote { padding: 1.33em; font-style: italic; border-left: 5px solid rgb(122, 122, 122); color: rgb(85, 85, 85); }
+blockquote em { color: rgb(0, 0, 0); }
+blockquote footer { font-size: 0.85rem; font-style: normal; background-color: rgb(255, 255, 255); color: rgb(122, 122, 122); border-color: transparent; }
+h1, .h1, h2, .h2 { font-family: Belgika-8th; font-weight: 900; line-height: 1.2; margin: 1em 0px 0.5em; }
+h3, .h3, h4, .h4, h5, .h5, h6, .h6 { font-family: Belgika-16th; font-weight: 900; line-height: 1.2; margin: 1em 0px 0.5em; clear: both; }
+@media screen and (min-width: 48em) {
+  .h1, h1 { font-size: 3.25rem; }
+  .h2, h2 { font-size: 2.298rem; }
+  .h3, h3 { font-size: 1.625rem; }
+  .h4, h4 { font-size: 1.3rem; }
+  #write > h4.md-focus::before, #write > h5.md-focus::before, #write > h6.md-focus::before { top: 1px; }
+  .p, p, li { font-size: 1.25rem; line-height: 1.8; }
+  table { font-size: 1.25rem; }
+}
+@media (max-width: 48em) {
+  blockquote { margin-left: 1rem; margin-right: 0px; padding: 0.5em; }
+  .h1, h1 { font-size: 2.827rem; }
+  .h2, h2 { font-size: 1.999rem; }
+  .h3, h3 { font-size: 1.413rem; }
+  .h4, h4 { font-size: 1.3rem; }
+}
+@media screen and (min-width: 64em) {
+  .h1, h1 { font-size: 4.498rem; }
+  .h2, h2 { font-size: 2.29rem; }
+  .h3, h3 { font-size: 1.9rem; }
+  .h4, h4 { font-size: 1.591rem; }
+  #write > h4.md-focus::before { top: 4px; }
+}
+a { color: rgb(70, 63, 92); text-decoration: underline; }
+#write { padding-top: 2rem; }
+#write pre.md-meta-block { min-height: 35px; padding: 2000px 1em 10px 0px; white-space: pre; border-width: 0px 30px; border-top-style: initial; border-bottom-style: initial; border-top-color: initial; border-bottom-color: initial; border-image: initial; border-left-style: solid; border-left-color: rgb(248, 248, 248); border-right-style: solid; border-right-color: rgb(248, 248, 248); width: 100vw; max-width: calc(100% + 60px); margin-left: -30px; margin-bottom: 2em; margin-top: -2010px; line-height: 1.5em; color: rgb(122, 122, 122); background-color: rgb(250, 250, 250); font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; font-weight: 300; clear: both; font-size: 1.125rem; }
+.md-image > .md-meta { color: rgb(70, 63, 92); }
+.footnotes { font-size: 1.1rem; }
+.md-tag { font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; }
+.code-tooltip { background: white; }
+.code-tooltip-content { font-size: 1.1rem; }
+.task-list { padding-left: 0px; }
+.md-task-list-item { padding-left: 34px; }
+.md-task-list-item > input { width: 1.25rem; height: 1.25rem; display: block; -webkit-appearance: initial; top: -2px; margin-left: -1.6em; margin-top: calc(1rem - 7px); }
+.md-task-list-item > input:focus { outline: none; box-shadow: none; }
+.md-task-list-item > input::before { border: 1px solid rgb(85, 85, 85); border-radius: 1.5rem; width: 1.5rem; height: 1.5rem; background: rgb(255, 255, 255); content: " "; transition: background-color 200ms ease-in-out; display: block; }
+.md-task-list-item > input:checked::before, .md-task-list-item > input[checked]::before { background: rgb(51, 51, 51); border-width: 2px; display: inline-block; transition: background-color 200ms ease-in-out; }
+.md-task-list-item > input:checked::after, .md-task-list-item > input[checked]::after { opacity: 1; }
+.md-task-list-item > input::after { transition: opacity 0.05s ease-in-out; transform: rotate(-45deg); position: absolute; top: 0.4375rem; left: 0.28125rem; width: 0.9375rem; height: 0.5rem; border-width: 0px 0px 3px 3px; border-bottom-style: solid; border-left-style: solid; border-bottom-color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255); border-image: initial; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; content: " "; opacity: 0; }
+.md-tag { color: inherit; }
+.md-toc:focus .md-toc-content { margin-top: 19px; }
+#typora-sidebar { font-size: 1rem !important; }
+.html-for-mac #typora-sidebar { background-color: white; }
+.outline-content li, .outline-content ul { font-size: 1rem !important; }
+.outline-title { line-height: inherit; margin-top: 10px; }
+.outline-expander { width: 18px; }
+.outline-expander::before { content: "+"; font-family: inherit; color: rgb(108, 108, 108); font-size: 1.5rem; top: 0.1rem; }
+.outline-expander:hover::before { content: "+"; }
+.outline-item-open > .outline-item > .outline-expander::before { content: "-"; }
+#typora-source { font-family: Courier, monospace; color: rgb(106, 106, 106); }
+.os-windows #typora-source { font-family: inherit; }
+.cm-s-typora-default .cm-header, .cm-s-typora-default .cm-property, .CodeMirror.cm-s-typora-default div.CodeMirror-cursor { color: rgb(66, 139, 202); }
+.cm-s-typora-default .cm-atom, .cm-s-typora-default .cm-number { color: rgb(119, 119, 119); }
+.preference-item-hint { margin-top: 16px; }
+.md-diagram-panel { margin-top: 24px; margin-left: -1.2em; }
+.half { width: 48%; margin-right: 1%; float: left; padding-right: 2%; padding-bottom: 30px; }
+.third { width: 31%; margin-right: 1%; float: left; margin-bottom: 20px; }
+@media print {
+  h1 { break-before: page; }
+  h1:first-of-type { break-before: avoid; }
+  h2 { break-before: page; }
+  h2:first-of-type { break-before: avoid; }
+  h4 { break-before: page; }
+  h4:first-of-type { break-before: avoid; }
+  .half { width: 48%; margin-right: 1%; float: left; }
+  .third { width: 31%; margin-right: 1%; float: left; }
+}
+
+
+
+
+
+ .typora-export p, .typora-export .footnote-line {white-space: normal;} 
+</style>
+</head>
+<body class='typora-export' >
+<div  id='write'  class = 'is-node'><h1><a name='header-n1927' class='md-header-anchor '></a>supporting documents</h1><h2><a name='header-n1929' class='md-header-anchor '></a>Colm O&#39;Neill</h2><p>These documents detail some of my recent practice in the sphere of fabrication laboratories, maker spaces and educational projects.</p><h4><a name='header-n1932' class='md-header-anchor '></a>Research statement</h4><p>My name is Colm O&#39;Neill, I am a freelance researcher, graphic designer, web developper and teacher. After studying photography, I took concern with how graphic design and interfacing can enable a particular and potentially detrimental mode of address. The formatting of today&#39;s technology does not help the common users to understand the way in which it&#39;s systems function. My research is still focused on this question top down and while this remains a concern, I continually seek means to work the issue bottom up with my main interest in digital literacy. For this, I have been focusing on physical expressions of <em>new technologies</em>, education rooted in experiences, hoping to give grasp on tangible functioning of our numerical surroundings. The projects below detail how this has been undertaken.</p><h4><a name='header-n1935' class='md-header-anchor '></a>Working with BeMaker</h4><p>My current professional function is education lead for an organisation called beMaker. The group (<a href='http://bemaker.eu' target='_blank' class='url'>http://bemaker.eu</a>) is a non profit organisation from Brussels that is focused on introducing fablab-like practices to students between the ages of 10 and 16. It’s main vocation is to <strong>demystify</strong> what are broadly called <em>new technologies</em>. Specifically, beMaker has built two <em>food trucks</em>-like vans to fully function as mobile fablabs. This allows us to work on school sites directly with children, taking time to, firstly introduce them to what a fablab may be, secondly to give varied length workshops introducing the children to programming, basic electronics and design methods.</p><h5><a name='header-n1938' class='md-header-anchor '></a>Everyday practice</h5><p><img src='class1.jpg' alt='' referrerPolicy='no-referrer' /></p><p><img src='colm.jpg' alt='' referrerPolicy='no-referrer' />
+<img src='class2.jpg' alt='' referrerPolicy='no-referrer' />
+<img src='navid_truck.jpg' alt='' referrerPolicy='no-referrer' />
+<br>
+<img src='colm2.jpg' alt='' referrerPolicy='no-referrer' /></p><p>These pictures show the mobile fablabs in use in various school contexts. The general introduction we give takes between 30 and 50 minutes, depending on the specific interests of each group.</p><p><img src='stationmeteo.jpeg' alt='' referrerPolicy='no-referrer' /></p><p>One of the small weather station built as part of a more extensive set of workshops. The station aims to teach the students to measure and display humidity levels, current temperature and amount of brightness, but also use other sensors. Later, this micro weather station can be updated to receive a digital communication module to log the readings from each sensor for better studying.</p><p><img src='bras-robotique1.jpg' alt='' referrerPolicy='no-referrer' /></p><p>A second extensive workshop uses the idea of articulated arms, displaying to the students how a tri- or quad-angled robot arm works theoretically. When deployed, this project requires less programming involvement, but needs more parts designing in order to make the robotic arm usable.</p><h5><a name='header-n1957' class='md-header-anchor '></a>Production add-on</h5><p>Below are images of some of beMakers internal projets / productions, these are a collection of little add-ons or creations we had to build to facilitate the workings of the mobile fablab.</p><p><img src='cnc.jpg' alt='' referrerPolicy='no-referrer' /></p><p>One of the main issues with making a fablab mobile is storage and security while driving the van between school locations. All of the workbenches and furniture has been custom built for the project. This image shows our storage and transport box before assembly.</p><p><img src='single_box.jpg' alt='' referrerPolicy='no-referrer' /></p><p>The boxes are purpose built to carry specific equipment. This box is meant to hold 6 laptops, and their chargers in the smaller compartment. We later laser cut thick packing foam to protect and space out the laptops safely.</p><p><img src='boxes.jpg' alt='' referrerPolicy='no-referrer' /></p><p>All the boxes are also designed to stack atop one another. This facilitates safe transport in and outside of the vans.</p><p><img src='speed_clamp.jpg' alt='' referrerPolicy='no-referrer' />
+As this small cnc mill serves mostly for demonstrations, we added a speed clamp system, allowing the moblile fablab staff to quickly and easily change the demonstration cutting cards.</p><p><img src='laser_protection.jpg' alt='' referrerPolicy='no-referrer' />
+This laser cutter is small and ideal for demonstrating the tools ability to children. However, unlike larger laser cutters, it does not come with eye protection. We designed and built these UV filtering boxes to add around the lasers protecting all observers eyes. In addition to this, we hand out protective eyeware (also UV filtering) to guarantee no injuries can happen.</p><h4><a name='header-n1979' class='md-header-anchor '></a>Pen plotters and Open Source Publishing</h4><p>Gesture, ductus and machinic gestures have been an important focuses for my research as a graphic designer and as a member of the design collective Open Source Publishing (<a href='http://osp.kitchen' target='_blank' class='url'>http://osp.kitchen</a>). As a collective we question the necessities and boundaries of the copyrighting systems. OSP always had an educational motivation, most of our members being active teachers. Among our many parallel research tracks, machine tinkering with mid 80s pen plotters quickly became an interest.</p><p><img src='osp-visual-grammar-poster.png' alt='' referrerPolicy='no-referrer' /></p><p>Bezier side by side with Spiro, one of the first posters I made with OSP.</p><p><img src='roland2.jpg' alt='' referrerPolicy='no-referrer' />
+<br>
+<img src='roland.jpg' alt='' referrerPolicy='no-referrer' />
+<img src='big_plotter.png' alt='' referrerPolicy='no-referrer' />
+<img src='digital-catalog-cover.png' alt='' referrerPolicy='no-referrer' /></p><p>16 case stories, co-position LGRU (Libre Graphics Research Unit) catalogue design.
+2012, Print, 24 page booklet, Risograph print and flatbed pen plotter cover.<br>Design with Pierre Huyghebaert.<br><a href='https://gitlab.constantvzw.org/lgru/co-position-catalog/blob/master/facsimile/digital-catalog.pdf' target='_blank' class='url'>https://gitlab.constantvzw.org/lgru/co-position-catalog/blob/master/facsimile/digital-catalog.pdf</a></p><p>This booklet used the pen plotter in some of it&#39;s basic function to print a research outcome booket questionning the practices of page layout. From this <em>“16 case stories”</em> research spawned a more speculative writing research project called Drawing Curved, concerned with the nature of curvature.</p><p><img src='drawing-curved.png' alt='' referrerPolicy='no-referrer' /></p><p><a href='http://drawingcurved.osp.kitchen' target='_blank' class='url'>http://drawingcurved.osp.kitchen</a></p><h4><a name='header-n2002' class='md-header-anchor '></a>Relearn</h4><p><a href='http://relearn.be' target='_blank' class='url'>http://relearn.be</a></p><p><em>“Relearn is a collective learning experiment with as many teachers as it has participants. It is motivated by the possibility to displace parameters of/for research, studying and learning. During the week of Relearn, we work with a set of case-studies, observations, questions or stacks of study material that we call &quot;tracks&quot;. Relearn outlines the idea of resetting thinking modes, for a diverse set of approaches that we can reconsider, that come out of the development of our cultures towards and through digital entities. While Relearn is an experiment in collective learning, it grows from an interest in Free / Libre Open Source Software culture and practices as a way to address and acknowledge the production processes and frameworks involving technology and culture.”</em></p><p><img src='relearn.jpg' alt='' referrerPolicy='no-referrer' /></p><p><img src='relearn2.jpg' alt='' referrerPolicy='no-referrer' /></p><p><img src='relearn3.jpg' alt='' referrerPolicy='no-referrer' /></p><p>Project archives and repository: <a href='https://gitlab.com/relearn' target='_blank' class='url'>https://gitlab.com/relearn</a></p><h4><a name='header-n2015' class='md-header-anchor '></a>breadfellows.school</h4><p><img src='breadfellows.png' alt='' referrerPolicy='no-referrer' /></p><p>A website, online publication space, pedagogical tool and
+archive made in collaboration with Clare Breen, September 2017 – present</p><p>Educational methods are rarely considered to be intellectual property however, documentation material, publications, artworks or media gets easily bound to closed licences through copyright. This means (that outside of the academic frame) it is hard to publish research and methodological (reflection) materials in support of new educational research. As the focus of Breadfellows.school is to share and disseminate neoteric educational practices, we publish the written content, the visual material, the supporting audio, video media and the code developed specifically for this site, as a statement of where the research positions itself socially. Copyright and licencing issues were not initial interest in the Breadfellows Chats project, but through our collaboration, developing this platform, we attempt to continue the constructivist, conversational ambition of the Breadfellows project.</p></div>
+</body>
+</html>

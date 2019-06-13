@@ -1,0 +1,9 @@
+My name is Colm O'Neill, I am a media artist, graphic designer, educator, web developer and researcher recently based in Carlow.
+
+I am applying for an individual arts grant to design and self-build an automated drawing and drafting machine called a *pen plotter*. A pen plotter is a type of computer printer that prints vector graphics. It can draw lines using pens, pencils, brushes etc., as opposed to common inkjet printers that spread ink to fill areas.
+
+In this design, electric motors and micro controllers work together to move a pen holder along three axes to print graphics on paper. I intend to build a machine large enough to work on A1 paper, to make posters, maps, graphs or any other images as part of my practice. I will build this tool with designs and guidance from collaborating artist and designer Julien Dutertre, who is based in Brussels.
+
+Pen plotters are not only beautiful tools that produce curious and interesting printed objects, they also help us think about what digital images are. There are two types of digital images; pixel raster based images, and vector drawings. We are all familiar with pixel rasters as they are the dominant form of digital imagery today. Vector drawings enable us to draw on screens. They record our movements in mathematical ways which means they have no set resolution and can be infinitely modified.
+
+I plan to build this machine as a way to continue experimenting with digital forms of imagery, enhancing my research and practice and as a tool for workshops. I have found, in my work in digital literacy, that the performative nature of a pen plotter helps people understand how machines operate and how computers and machines communicate. This results in healthy curiosity towards our everyday *digital_devices*, facilitating digital literacy.

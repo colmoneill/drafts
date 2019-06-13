@@ -1,0 +1,9 @@
+digraph modes_of_address{
+overlap = false
+layout = dot
+a [label="Self-Determination Theory"]
+a -> b
+b [label="Self-determination theory (SDT) is a macro theory of human motivation and personality that concerns people's inherent growth tendencies and innate psychological needs.\lIt is concerned with the motivation behind choices people make without external influence and interference.\lSDT focuses on the degree to which an individual's behavior is self-motivated and self-determined."]
+b -> c
+c [label="SDT supports three basic psychological needs that must be satisfied to foster well-being and health.\lThese needs can be universally applied. However, some may be more salient than others at certain times and are expressed differently based on time, culture, or experience."]
+}

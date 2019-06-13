@@ -1,0 +1,30 @@
+Junior researcher, artistic research application<br>
+Applicant name: Colm O'Neill<br>
+Document 2 of 6</br>
+Vacancy number 17-195<br>
+
+# Title: Modes of addressing networks.
+
+# Research statement:
+
+## summary
+My research statement will address the subproject ‘Pushing the Boundaries of the Criticality of Making’ with two anticipated steps: first, a hodology of the communications that art, design and technology employ. Second, a consideration of the structures by which our social realities are organised and what is unaccounted for. The first step aims to think about the current boundaries of Critical Making. In observing the common ground between the three fields, their different approaches to their communication goals stand out. Categorising the modes of address that these fields and their communications employ spawns a secondary mesh of connections across the field and it's practices. The second step considers the social realities that the fields, their productions and their communications depend on as networks. Drawing on theory and literary meditations, pushing the boundaries will have to mean considering “the outside of networks as methods for acting in the world”. (Mejias, 2013)
+
+## brief formulation of subject
+What is common to art, design and technology is social interaction. By this I mean that all art, all design and all technology exists to be interacted with in some form. This interaction is of many orders, but I fail to find one that is not of the social order, the position of one or the positions of many in or outside groups. Art, design and technology therefor provide delayed items of communication. From one to one or from many to many, be they shaped or not, the fields that this research project study all contain messages.
+
+I propose to begin with an observation of rhetorics. The umbrella that covers this subproject I am applying to proposes that the fields of art, design and technology could be bridged by critical making. I tentatively believe that to possible if alternate common grounds can be found between these three fields. My research interests lie in a cross section that includes the three: communication. More specifically, I am interested in modes of address. While art, design and technology have different goals, they employ similar methods in order to exist within social realities. They embody, they shape, or they augment the communications of certain ethics, of certain ideals. The ways in which they communicate the ethics of their makers is, in my opinion, of the field of rhetorics. The mode of address they employ to communicate are multiple, but these modes provide us with tones and types of speech (or silence) that reveal the aims and the ethics of the makers.
+
+In order to address the main question of the subproject —what are the limitations and potential of criticality in theory and in practice? I believe that a serious account of what existing critical theory can be applied to must be taken. This is why I propose to begin with rhetorics. If it can be said that critical making brings together the often considered abstract and explicit critical thinking with tangible making, then researching the central question should involve case study analysis of the rhetorics, then the ethics that critical making could respond to. In order to question the boundaries of critical making, I first believe that a hodology of artistic, design and technological assumptions must be made.
+
+After this account is taken, this possibly conceptual map is drawn, I bring forwards a critique of networks. If the products of art, design and technology are social, I propose that a critique of the assumption of the shape of social realities could help to point to the limitations and potentials for critique and critical making. Drawing heavily from “Off the Network” a book by Ulises Ali Mejias, I take on board the idea that our social realities are commonly thought to be organised as networks. My perspective is to challenge the conception of social realities as networks. Thinking in terms of social / art / design / technological / machinic networks might seem harmless, but networked structures imply that nodes and connections are the only forms possible. One is either on the network or it is not considered therefor not existent. A network in the social sense implies a logic of totality, a term that the feminist writing duo J.K. Gibson-Graham had to argue against in “The end of capitalism (as we knew it)” as if one lets a definition of 'all or nothing' exist, then how is one supposed to propose alternatives to it? How is one supposed to be critical towards it. My goal with the highlighting of this critique is to discursively and practically review the meanings and shapes of networks. I believe this goal is necessary in order to identify real outsides, real positions from which critically can exist.
+
+Mejias eventually proposes the idea of the paranode. This is achieved by looking at the negative space that network diagrams leave out. The paranodal wants to say that the space left out is not the negative shape, it is active space, where people and art and design and technology and life can and do exist, off of the networks. In order to question the boundaries of the critically of making, I propose that we must look to the paranodal, and look to the outside of networks.
+
+Practically speaking, identifying *the outside* first will work by antithesis. My project Adversarial Interfaces shows how this reactive, resistant position points to the outside, in this project in the real of end user graphical interfaces. This project will have to find related methods by which to consider the outside through projects of the fields of art, design and technology.
+
+## Related readings:
+* The Outside of Networks as a Method for Acting in the World, Ulises Ali Mejias, Off the Network, Chapter 9
+* Edouard Glissant, Poetics of Relation, Transparency and Opacity (p. 111), For Opacity (p. 189)
+* A. Galloway & E. Thacker, Tactics of Nonexistance, from “The Exploit”, Part II. Edges (p. 135)
+* William Davies, The Mismanaged Heart, on Real Life Mag
