@@ -1,3 +1,5 @@
+<small>This text / pad is extracted from the latest-etherdump folder emanating from the Rotterdam 2019 Relearn Curved session. To the best of my knowledge, this text was authored by Manetta Berends, Anne Laforet and Colm O'Neill</small>
+
 __PUBLISH__
 __CLOSELY_RELATED_TO__ http://relearn.local:9001/p/publish-index
 
